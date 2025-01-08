@@ -3,7 +3,6 @@ description: 跨境电商运营完整知识体系
 baseurl: "/YuanOversea"
 url: "https://albertbouny.github.io"
 remote_theme: just-the-docs/just-the-docs
-markdown: kramdown
 
 # 启用必要的插件
 plugins:
@@ -21,5 +20,13 @@ aux_links:
   "GitHub 仓库":
     - "https://github.com/AlbertBouny/YuanOversea"
 
-# 额外配置
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"] 
+# 文档设置
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation 
