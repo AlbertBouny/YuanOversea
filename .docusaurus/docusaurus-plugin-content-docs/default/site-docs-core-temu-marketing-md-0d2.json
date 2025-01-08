@@ -1,0 +1,21 @@
+{
+  "id": "core/temu/marketing",
+  "title": "营销推广",
+  "description": "一、营销体系",
+  "source": "@site/docs/core/temu/marketing.md",
+  "sourceDirName": "core/temu",
+  "slug": "/core/temu/marketing",
+  "permalink": "/YuanOversea/docs/core/temu/marketing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/temu/marketing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "营销推广",
+    "nav_order": 3,
+    "has_toc": true,
+    "parent": "Temu运营"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "compliance/overview",
+  "title": "合规风控概述",
+  "description": "合规风控是跨境电商业务健康发展的保障，包括平台规则、法律法规和风险控制等方面。",
+  "source": "@site/docs/compliance/overview.md",
+  "sourceDirName": "compliance",
+  "slug": "/compliance/overview",
+  "permalink": "/YuanOversea/docs/compliance/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/compliance/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

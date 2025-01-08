@@ -1,0 +1,21 @@
+{
+  "id": "compliance/platform/product",
+  "title": "产品合规",
+  "description": "一、合规要求",
+  "source": "@site/docs/compliance/platform/product.md",
+  "sourceDirName": "compliance/platform",
+  "slug": "/compliance/platform/product",
+  "permalink": "/YuanOversea/docs/compliance/platform/product",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/compliance/platform/product.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "产品合规",
+    "parent": "平台合规",
+    "grand_parent": "合规风控",
+    "nav_order": 1
+  }
+}

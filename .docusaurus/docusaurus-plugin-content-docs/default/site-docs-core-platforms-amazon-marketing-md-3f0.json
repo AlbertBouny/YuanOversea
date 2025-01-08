@@ -1,0 +1,38 @@
+{
+  "id": "core/platforms/amazon/marketing",
+  "title": "营销策略",
+  "description": "亚马逊平台营销策略和推广方案",
+  "source": "@site/docs/core/platforms/amazon/marketing.md",
+  "sourceDirName": "core/platforms/amazon",
+  "slug": "/core/platforms/amazon/marketing",
+  "permalink": "/YuanOversea/docs/core/platforms/amazon/marketing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/platforms/amazon/marketing.md",
+  "tags": [
+    {
+      "label": "营销策略",
+      "permalink": "/YuanOversea/docs/tags/营销策略"
+    },
+    {
+      "label": "推广方案",
+      "permalink": "/YuanOversea/docs/tags/推广方案"
+    },
+    {
+      "label": "广告投放",
+      "permalink": "/YuanOversea/docs/tags/广告投放"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "营销策略",
+    "description": "亚马逊平台营销策略和推广方案",
+    "tags": [
+      "营销策略",
+      "推广方案",
+      "广告投放"
+    ]
+  }
+}

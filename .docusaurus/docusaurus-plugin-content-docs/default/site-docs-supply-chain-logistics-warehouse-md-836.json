@@ -1,0 +1,21 @@
+{
+  "id": "supply-chain/logistics/warehouse",
+  "title": "仓储管理",
+  "description": "一、仓储体系",
+  "source": "@site/docs/supply-chain/logistics/warehouse.md",
+  "sourceDirName": "supply-chain/logistics",
+  "slug": "/supply-chain/logistics/warehouse",
+  "permalink": "/YuanOversea/docs/supply-chain/logistics/warehouse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/logistics/warehouse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "仓储管理",
+    "parent": "仓储物流",
+    "grand_parent": "供应链管理",
+    "nav_order": 1
+  }
+}

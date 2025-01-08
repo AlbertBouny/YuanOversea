@@ -1,0 +1,27 @@
+{
+  "id": "core/amazon/index",
+  "title": "亚马逊运营指南",
+  "description": "简介",
+  "source": "@site/docs/core/amazon/index.md",
+  "sourceDirName": "core/amazon",
+  "slug": "/core/amazon/",
+  "permalink": "/docs/core/amazon/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/amazon/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Temu运营指南",
+    "permalink": "/docs/core/temu/"
+  },
+  "next": {
+    "title": "TikTok Shop运营指南",
+    "permalink": "/docs/core/tiktok/"
+  }
+}

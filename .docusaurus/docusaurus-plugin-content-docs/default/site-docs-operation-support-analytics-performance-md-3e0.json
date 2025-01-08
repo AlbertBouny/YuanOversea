@@ -1,0 +1,21 @@
+{
+  "id": "operation-support/analytics/performance",
+  "title": "效果分析",
+  "description": "一、效果指标",
+  "source": "@site/docs/operation-support/analytics/performance.md",
+  "sourceDirName": "operation-support/analytics",
+  "slug": "/operation-support/analytics/performance",
+  "permalink": "/YuanOversea/docs/operation-support/analytics/performance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/operation-support/analytics/performance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "效果分析",
+    "parent": "数据分析",
+    "grand_parent": "运营支持",
+    "nav_order": 2
+  }
+}

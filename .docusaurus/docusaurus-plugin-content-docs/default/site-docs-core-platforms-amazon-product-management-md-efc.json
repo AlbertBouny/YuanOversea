@@ -1,0 +1,38 @@
+{
+  "id": "core/platforms/amazon/product-management",
+  "title": "产品管理",
+  "description": "亚马逊产品管理、选品及优化指南",
+  "source": "@site/docs/core/platforms/amazon/product-management.md",
+  "sourceDirName": "core/platforms/amazon",
+  "slug": "/core/platforms/amazon/product-management",
+  "permalink": "/YuanOversea/docs/core/platforms/amazon/product-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/platforms/amazon/product-management.md",
+  "tags": [
+    {
+      "label": "产品管理",
+      "permalink": "/YuanOversea/docs/tags/产品管理"
+    },
+    {
+      "label": "选品",
+      "permalink": "/YuanOversea/docs/tags/选品"
+    },
+    {
+      "label": "优化",
+      "permalink": "/YuanOversea/docs/tags/优化"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "产品管理",
+    "description": "亚马逊产品管理、选品及优化指南",
+    "tags": [
+      "产品管理",
+      "选品",
+      "优化"
+    ]
+  }
+}

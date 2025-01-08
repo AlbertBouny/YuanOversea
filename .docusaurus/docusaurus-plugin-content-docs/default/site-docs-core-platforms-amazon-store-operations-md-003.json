@@ -1,0 +1,38 @@
+{
+  "id": "core/platforms/amazon/store-operations",
+  "title": "店铺运营",
+  "description": "亚马逊店铺运营标准和最佳实践",
+  "source": "@site/docs/core/platforms/amazon/store-operations.md",
+  "sourceDirName": "core/platforms/amazon",
+  "slug": "/core/platforms/amazon/store-operations",
+  "permalink": "/YuanOversea/docs/core/platforms/amazon/store-operations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/platforms/amazon/store-operations.md",
+  "tags": [
+    {
+      "label": "店铺运营",
+      "permalink": "/YuanOversea/docs/tags/店铺运营"
+    },
+    {
+      "label": "运营标准",
+      "permalink": "/YuanOversea/docs/tags/运营标准"
+    },
+    {
+      "label": "绩效管理",
+      "permalink": "/YuanOversea/docs/tags/绩效管理"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "店铺运营",
+    "description": "亚马逊店铺运营标准和最佳实践",
+    "tags": [
+      "店铺运营",
+      "运营标准",
+      "绩效管理"
+    ]
+  }
+}

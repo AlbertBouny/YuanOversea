@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/运营支持/3.2-数据分析/销售分析",
+  "title": "销售分析 Sales Analysis",
+  "description": "最后更新时间：2024-03-21",
+  "source": "@site/docs/yuandocs/3-运营支持/3.2-数据分析/销售分析.md",
+  "sourceDirName": "yuandocs/3-运营支持/3.2-数据分析",
+  "slug": "/yuandocs/运营支持/3.2-数据分析/销售分析",
+  "permalink": "/YuanOversea/docs/yuandocs/运营支持/3.2-数据分析/销售分析",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/3-运营支持/3.2-数据分析/销售分析.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "内容营销 Content Marketing",
+    "permalink": "/YuanOversea/docs/yuandocs/运营支持/3.1-营销体系/内容营销"
+  },
+  "next": {
+    "title": "服务标准 Service Standards",
+    "permalink": "/YuanOversea/docs/yuandocs/运营支持/3.3-客户服务/服务标准"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "core/platforms/overview",
+  "title": "平台概览",
+  "description": "主流跨境电商平台分析和选择指南",
+  "source": "@site/docs/core/platforms/overview.md",
+  "sourceDirName": "core/platforms",
+  "slug": "/core/platforms/overview",
+  "permalink": "/YuanOversea/docs/core/platforms/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/platforms/overview.md",
+  "tags": [
+    {
+      "label": "平台选择",
+      "permalink": "/YuanOversea/docs/tags/平台选择"
+    },
+    {
+      "label": "市场分析",
+      "permalink": "/YuanOversea/docs/tags/市场分析"
+    },
+    {
+      "label": "运营策略",
+      "permalink": "/YuanOversea/docs/tags/运营策略"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "平台概览",
+    "description": "主流跨境电商平台分析和选择指南",
+    "tags": [
+      "平台选择",
+      "市场分析",
+      "运营策略"
+    ]
+  }
+}

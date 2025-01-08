@@ -1,0 +1,21 @@
+{
+  "id": "foundation/hr/training",
+  "title": "培训体系",
+  "description": "一、培训规划",
+  "source": "@site/docs/foundation/hr/training.md",
+  "sourceDirName": "foundation/hr",
+  "slug": "/foundation/hr/training",
+  "permalink": "/YuanOversea/docs/foundation/hr/training",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/foundation/hr/training.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "培训体系",
+    "parent": "人才体系",
+    "grand_parent": "基础支撑",
+    "nav_order": 2
+  }
+}

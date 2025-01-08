@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/供应链/2.1-产品开发/质量标准",
+  "title": "质量标准 Quality Standards",
+  "description": "最后更新时间：2024-03-21",
+  "source": "@site/docs/yuandocs/2-供应链/2.1-产品开发/质量标准.md",
+  "sourceDirName": "yuandocs/2-供应链/2.1-产品开发",
+  "slug": "/yuandocs/供应链/2.1-产品开发/质量标准",
+  "permalink": "/YuanOversea/docs/yuandocs/供应链/2.1-产品开发/质量标准",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/2-供应链/2.1-产品开发/质量标准.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "开发流程 Development Process",
+    "permalink": "/YuanOversea/docs/yuandocs/供应链/2.1-产品开发/开发流程"
+  },
+  "next": {
+    "title": "内容营销 Content Marketing",
+    "permalink": "/YuanOversea/docs/yuandocs/运营支持/3.1-营销体系/内容营销"
+  }
+}

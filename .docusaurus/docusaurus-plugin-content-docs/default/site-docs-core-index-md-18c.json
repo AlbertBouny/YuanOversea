@@ -1,0 +1,29 @@
+{
+  "id": "core/index",
+  "title": "核心业务",
+  "description": "跨境电商平台运营的核心业务模块，包括各大主流平台的运营指南。",
+  "source": "@site/docs/core/index.md",
+  "sourceDirName": "core",
+  "slug": "/core/",
+  "permalink": "/YuanOversea/docs/core/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "核心业务",
+    "nav_order": 1,
+    "has_children": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "跨境电商知识库",
+    "permalink": "/YuanOversea/docs/intro"
+  },
+  "next": {
+    "title": "供应链管理",
+    "permalink": "/YuanOversea/docs/supply-chain/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "core/tiktok/index",
+  "title": "TikTok Shop运营指南",
+  "description": "简介",
+  "source": "@site/docs/core/tiktok/index.md",
+  "sourceDirName": "core/tiktok",
+  "slug": "/core/tiktok/",
+  "permalink": "/docs/core/tiktok/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/tiktok/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "亚马逊运营指南",
+    "permalink": "/docs/core/amazon/"
+  },
+  "next": {
+    "title": "供应链管理",
+    "permalink": "/docs/supply-chain/"
+  }
+}

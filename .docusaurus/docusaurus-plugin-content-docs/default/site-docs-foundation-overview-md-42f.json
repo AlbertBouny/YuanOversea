@@ -1,0 +1,18 @@
+{
+  "id": "foundation/overview",
+  "title": "基础支撑概述",
+  "description": "基础支撑系统是跨境电商业务持续发展的基石，包括IT系统、财务管理和人力资源等核心支撑体系。",
+  "source": "@site/docs/foundation/overview.md",
+  "sourceDirName": "foundation",
+  "slug": "/foundation/overview",
+  "permalink": "/YuanOversea/docs/foundation/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/foundation/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

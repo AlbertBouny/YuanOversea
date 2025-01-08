@@ -1,0 +1,21 @@
+{
+  "id": "core/temu/service",
+  "title": "客户服务",
+  "description": "一、服务体系",
+  "source": "@site/docs/core/temu/service.md",
+  "sourceDirName": "core/temu",
+  "slug": "/core/temu/service",
+  "permalink": "/YuanOversea/docs/core/temu/service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/temu/service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "客户服务",
+    "nav_order": 4,
+    "has_toc": true,
+    "parent": "Temu运营"
+  }
+}

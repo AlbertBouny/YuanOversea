@@ -1,0 +1,22 @@
+{
+  "id": "supply-chain/product/selection",
+  "title": "选品策略",
+  "description": "一、市场分析",
+  "source": "@site/docs/supply-chain/product/selection.md",
+  "sourceDirName": "supply-chain/product",
+  "slug": "/supply-chain/product/selection",
+  "permalink": "/YuanOversea/docs/supply-chain/product/selection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/product/selection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "选品策略",
+    "nav_order": 1,
+    "has_toc": true,
+    "parent": "产品开发",
+    "grand_parent": "供应链管理"
+  }
+}

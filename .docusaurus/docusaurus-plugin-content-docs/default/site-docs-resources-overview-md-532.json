@@ -1,0 +1,18 @@
+{
+  "id": "resources/overview",
+  "title": "资源对接概述",
+  "description": "资源对接是跨境电商业务发展的重要支持，包括供应商资源、服务商资源和平台资源等。",
+  "source": "@site/docs/resources/overview.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/overview",
+  "permalink": "/YuanOversea/docs/resources/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/resources/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

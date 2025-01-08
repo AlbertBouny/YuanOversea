@@ -1,0 +1,21 @@
+{
+  "id": "foundation/tech/wms",
+  "title": "WMS系统",
+  "description": "一、仓储管理",
+  "source": "@site/docs/foundation/tech/wms.md",
+  "sourceDirName": "foundation/tech",
+  "slug": "/foundation/tech/wms",
+  "permalink": "/YuanOversea/docs/foundation/tech/wms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/foundation/tech/wms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "WMS系统",
+    "parent": "技术支持",
+    "grand_parent": "基础支撑",
+    "nav_order": 3
+  }
+}

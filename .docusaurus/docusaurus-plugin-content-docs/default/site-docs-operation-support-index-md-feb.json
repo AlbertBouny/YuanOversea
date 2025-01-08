@@ -1,0 +1,29 @@
+{
+  "id": "operation-support/index",
+  "title": "运营支持",
+  "description": "营销体系",
+  "source": "@site/docs/operation-support/index.md",
+  "sourceDirName": "operation-support",
+  "slug": "/operation-support/",
+  "permalink": "/YuanOversea/docs/operation-support/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/operation-support/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "运营支持",
+    "nav_order": 3,
+    "has_children": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "供应链管理",
+    "permalink": "/YuanOversea/docs/supply-chain/"
+  },
+  "next": {
+    "title": "基础支撑",
+    "permalink": "/YuanOversea/docs/foundation/"
+  }
+}

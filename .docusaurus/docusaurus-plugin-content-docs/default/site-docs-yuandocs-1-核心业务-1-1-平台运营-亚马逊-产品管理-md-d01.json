@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/核心业务/1.1-平台运营/亚马逊/产品管理",
+  "title": "产品管理体系 Product Management System",
+  "description": "最后更新时间：2024-03-21",
+  "source": "@site/docs/yuandocs/1-核心业务/1.1-平台运营/亚马逊/产品管理.md",
+  "sourceDirName": "yuandocs/1-核心业务/1.1-平台运营/亚马逊",
+  "slug": "/yuandocs/核心业务/1.1-平台运营/亚马逊/产品管理",
+  "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/亚马逊/产品管理",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/1-核心业务/1.1-平台运营/亚马逊/产品管理.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Temu平台规则指南",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台规则"
+  },
+  "next": {
+    "title": "店铺运营标准 Store Operation Standards",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/亚马逊/店铺运营"
+  }
+}

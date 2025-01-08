@@ -1,0 +1,18 @@
+{
+  "id": "core/platform-operations/overview",
+  "title": "平台运营概览",
+  "description": "主要平台介绍",
+  "source": "@site/docs/core/platform-operations/overview.md",
+  "sourceDirName": "core/platform-operations",
+  "slug": "/core/platform-operations/overview",
+  "permalink": "/YuanOversea/docs/core/platform-operations/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/platform-operations/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

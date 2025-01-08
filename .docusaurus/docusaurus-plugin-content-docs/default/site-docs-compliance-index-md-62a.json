@@ -1,0 +1,30 @@
+{
+  "id": "compliance/index",
+  "title": "合规风控",
+  "description": "平台合规",
+  "source": "@site/docs/compliance/index.md",
+  "sourceDirName": "compliance",
+  "slug": "/compliance/",
+  "permalink": "/YuanOversea/docs/compliance/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/compliance/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "合规风控",
+    "nav_order": 5,
+    "has_children": true,
+    "has_toc": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基础支撑",
+    "permalink": "/YuanOversea/docs/foundation/"
+  },
+  "next": {
+    "title": "资源对接",
+    "permalink": "/YuanOversea/docs/resources/"
+  }
+}

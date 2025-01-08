@@ -1,0 +1,18 @@
+{
+  "id": "core/marketing/advertising",
+  "title": "广告投放指南",
+  "description": "广告投放是跨境电商获取流量和提升销售的重要手段。本指南将帮助你掌握广告投放的关键要点。",
+  "source": "@site/docs/core/marketing/advertising.md",
+  "sourceDirName": "core/marketing",
+  "slug": "/core/marketing/advertising",
+  "permalink": "/YuanOversea/docs/core/marketing/advertising",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/marketing/advertising.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

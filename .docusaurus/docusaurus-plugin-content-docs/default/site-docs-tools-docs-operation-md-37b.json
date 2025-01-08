@@ -1,0 +1,19 @@
+{
+  "id": "tools/docs/operation",
+  "title": "操作指南",
+  "description": "一、文档说明",
+  "source": "@site/docs/tools/docs/operation.md",
+  "sourceDirName": "tools/docs",
+  "slug": "/tools/docs/operation",
+  "permalink": "/YuanOversea/docs/tools/docs/operation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/tools/docs/operation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "操作指南"
+  }
+}

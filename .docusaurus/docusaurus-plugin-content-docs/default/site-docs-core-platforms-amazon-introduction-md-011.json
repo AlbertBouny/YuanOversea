@@ -1,0 +1,38 @@
+{
+  "id": "core/platforms/amazon/introduction",
+  "title": "亚马逊平台介绍",
+  "description": "亚马逊跨境电商平台特点、优势和运营要点",
+  "source": "@site/docs/core/platforms/amazon/introduction.md",
+  "sourceDirName": "core/platforms/amazon",
+  "slug": "/core/platforms/amazon/introduction",
+  "permalink": "/YuanOversea/docs/core/platforms/amazon/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/platforms/amazon/introduction.md",
+  "tags": [
+    {
+      "label": "亚马逊",
+      "permalink": "/YuanOversea/docs/tags/亚马逊"
+    },
+    {
+      "label": "平台介绍",
+      "permalink": "/YuanOversea/docs/tags/平台介绍"
+    },
+    {
+      "label": "运营指南",
+      "permalink": "/YuanOversea/docs/tags/运营指南"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "亚马逊平台介绍",
+    "description": "亚马逊跨境电商平台特点、优势和运营要点",
+    "tags": [
+      "亚马逊",
+      "平台介绍",
+      "运营指南"
+    ]
+  }
+}

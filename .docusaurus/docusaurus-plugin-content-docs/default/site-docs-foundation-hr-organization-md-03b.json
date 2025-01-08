@@ -1,0 +1,21 @@
+{
+  "id": "foundation/hr/organization",
+  "title": "组织架构",
+  "description": "一、组织设计",
+  "source": "@site/docs/foundation/hr/organization.md",
+  "sourceDirName": "foundation/hr",
+  "slug": "/foundation/hr/organization",
+  "permalink": "/YuanOversea/docs/foundation/hr/organization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/foundation/hr/organization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "组织架构",
+    "parent": "人才体系",
+    "grand_parent": "基础支撑",
+    "nav_order": 1
+  }
+}

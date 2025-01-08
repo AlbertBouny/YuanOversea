@@ -1,0 +1,18 @@
+{
+  "id": "supply-chain/overview",
+  "title": "供应链管理概述",
+  "description": "供应链管理是跨境电商运营的重要支撑，高效的供应链管理可以降低成本，提高效率。",
+  "source": "@site/docs/supply-chain/overview.md",
+  "sourceDirName": "supply-chain",
+  "slug": "/supply-chain/overview",
+  "permalink": "/YuanOversea/docs/supply-chain/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/supply-chain/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

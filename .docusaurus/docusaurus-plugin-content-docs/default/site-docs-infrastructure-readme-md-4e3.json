@@ -1,0 +1,15 @@
+{
+  "id": "infrastructure/README",
+  "title": "基础支撑 Foundation Support",
+  "description": "最后更新时间：2024-03-21",
+  "source": "@site/docs/infrastructure/README.md",
+  "sourceDirName": "infrastructure",
+  "slug": "/infrastructure/",
+  "permalink": "/YuanOversea/docs/infrastructure/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/infrastructure/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

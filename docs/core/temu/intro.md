@@ -1,9 +1,6 @@
 ---
-layout: default
-title: 平台介绍
-nav_order: 1
-has_toc: true
-parent: Temu运营
+sidebar_position: 1
+title: Temu平台介绍
 ---
 
 # Temu平台运营指南

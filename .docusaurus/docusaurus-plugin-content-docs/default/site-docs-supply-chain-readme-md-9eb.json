@@ -1,0 +1,15 @@
+{
+  "id": "supply-chain/README",
+  "title": "供应链管理 Supply Chain Management",
+  "description": "最后更新时间：2024-03-21",
+  "source": "@site/docs/supply-chain/README.md",
+  "sourceDirName": "supply-chain",
+  "slug": "/supply-chain/",
+  "permalink": "/YuanOversea/docs/supply-chain/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

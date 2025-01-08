@@ -1,0 +1,657 @@
+{
+  "/YuanOversea/__docusaurus/debug-444": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    }
+  },
+  "/YuanOversea/__docusaurus/debug/config-856": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    }
+  },
+  "/YuanOversea/__docusaurus/debug/content-495": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    },
+    "allContent": "allContent---yuan-oversea-docusaurus-debug-content-246-0c2"
+  },
+  "/YuanOversea/__docusaurus/debug/globalData-896": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    }
+  },
+  "/YuanOversea/__docusaurus/debug/metadata-d4e": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    }
+  },
+  "/YuanOversea/__docusaurus/debug/registry-f24": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    }
+  },
+  "/YuanOversea/__docusaurus/debug/routes-0a1": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docusaurus-debugc-72-3cc"
+    }
+  },
+  "/YuanOversea/docs-386": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-docs-6-db-ef1"
+    }
+  },
+  "/YuanOversea/docs-9ab": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---yuan-oversea-docs-935-c69"
+  },
+  "/YuanOversea/docs-324": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/YuanOversea/docs/compliance-77b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-62-a-5ed"
+  },
+  "/YuanOversea/docs/compliance/5.1-平台合规/产品合规-7f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-5-1-平台合规-产品合规b-02-4b2"
+  },
+  "/YuanOversea/docs/compliance/5.1-平台合规/账号安全-a63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-5-1-平台合规-账号安全-292-66e"
+  },
+  "/YuanOversea/docs/compliance/5.1-平台合规/政策合规-649": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-5-1-平台合规-政策合规aea-26a"
+  },
+  "/YuanOversea/docs/compliance/5.2-法务合规/合同管理-030": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-5-2-法务合规-合同管理e-4-e-716"
+  },
+  "/YuanOversea/docs/compliance/5.2-法务合规/知识产权-0f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-5-2-法务合规-知识产权-9-ad-f74"
+  },
+  "/YuanOversea/docs/compliance/platform/policy-189": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-platform-policy-52-b-71c"
+  },
+  "/YuanOversea/docs/compliance/platform/product-650": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-compliance-platform-product-617-39e"
+  },
+  "/YuanOversea/docs/core-74d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-18-c-e0e"
+  },
+  "/YuanOversea/docs/core-812": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-037-437"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/平台概览-277": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-平台概览-3-e-0-aa2"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/平台选择-849": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-平台选择c-4-c-b9e"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/其他平台/eBay/平台介绍-990": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-其他平台-e-bay-平台介绍ae-8-2d4"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/其他平台/Lazada/平台介绍-89f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-其他平台-lazada-平台介绍-8-fb-6cf"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/其他平台/Shopee/平台介绍-31e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-其他平台-shopee-平台介绍-276-e3f"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/其他平台/Walmart/平台介绍-712": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-其他平台-walmart-平台介绍ec-8-cb4"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/市场概览-762": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-市场概览-81-e-7e2"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/产品管理-ec6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-产品管理-9-bc-62d"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/店铺运营-e78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-店铺运营-9-d-0-b54"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/定价策略-f6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-定价策略fc-9-b05"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/绩效管理-785": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-绩效管理aa-7-8fd"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/库存管理-35c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-库存管理-933-72f"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/品牌建设-190": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-品牌建设-773-e49"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/平台规则-c1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-平台规则-044-33b"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/售后服务-3bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-售后服务-9-d-8-924"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/数据分析-aa0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-数据分析d-82-565"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/投放策略-1d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-投放策略-7-a-1-f76"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/营销策略-004": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-营销策略-3-b-7-f62"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/亚马逊/账号安全-6c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-亚马逊-账号安全-30-b-380"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/店铺运营-b58": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-店铺运营-7-a-5-b06"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/合规管理-50b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-合规管理eb-0-436"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/客户服务-7b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-客户服务b-90-8dc"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/平台规则-29b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-平台规则-60-f-cc4"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/平台介绍-3fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-平台介绍-643-bdf"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/数据分析-a03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-数据分析-483-af1"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/物流仓储-4fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-物流仓储-1-bc-621"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/选品策略-a9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-选品策略-431-4d3"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/营销推广-8b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-temu-temu-营销推广-42-e-8ff"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/达人合作-1e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-达人合作-60-e-4f3"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/活动运营-d65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-活动运营-36-e-f7a"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/客户服务-e9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-客户服务bbe-6f7"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/平台规则-8e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-平台规则d-7-b-f19"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/平台介绍-8c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-平台介绍-7-e-5-187"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/商品管理-445": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-商品管理e-5-e-7a3"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/视频运营-f7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-视频运营-49-a-146"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/数据分析-c36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-数据分析-87-f-45a"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/投放策略-721": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-投放策略ae-5-63a"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/账号管理-bf5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-账号管理-976-04b"
+  },
+  "/YuanOversea/docs/core/1.1-平台运营/TikTok/直播运营-fe6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-1-平台运营-tik-tok-直播运营-3-df-589"
+  },
+  "/YuanOversea/docs/core/1.2-商业模式/代运营模式-536": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-2-商业模式-代运营模式fc-4-57f"
+  },
+  "/YuanOversea/docs/core/1.2-商业模式/分销模式-24a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-2-商业模式-分销模式d-69-c94"
+  },
+  "/YuanOversea/docs/core/1.2-商业模式/品牌孵化-ea0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-2-商业模式-品牌孵化-6-fc-d7a"
+  },
+  "/YuanOversea/docs/core/1.2-商业模式/直播体系-c41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-2-商业模式-直播体系-51-c-899"
+  },
+  "/YuanOversea/docs/core/1.2-商业模式/自营模式-81a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-1-2-商业模式-自营模式ff-7-a5c"
+  },
+  "/YuanOversea/docs/core/business-model-f52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-business-model-595-bae"
+  },
+  "/YuanOversea/docs/core/platform-operations/overview-d56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-platform-operations-overview-99-e-e90"
+  },
+  "/YuanOversea/docs/core/temu-08b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-temu-092-aeb"
+  },
+  "/YuanOversea/docs/core/temu/intro-ec5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-temu-introdcd-b63"
+  },
+  "/YuanOversea/docs/core/temu/marketing-06e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-temu-marketing-0-d-2-bf2"
+  },
+  "/YuanOversea/docs/core/temu/operation-8ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-temu-operationfd-5-d56"
+  },
+  "/YuanOversea/docs/core/temu/rules-3b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-temu-rulesd-40-234"
+  },
+  "/YuanOversea/docs/core/temu/service-ecc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-core-temu-servicea-1-f-f53"
+  },
+  "/YuanOversea/docs/foundation-b37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-37-c-0e9"
+  },
+  "/YuanOversea/docs/foundation/finance/cost-c5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-finance-cost-9-b-0-05f"
+  },
+  "/YuanOversea/docs/foundation/finance/payment-d5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-finance-payment-8-ce-01a"
+  },
+  "/YuanOversea/docs/foundation/finance/tax-ec7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-finance-tax-6-b-1-5a4"
+  },
+  "/YuanOversea/docs/foundation/hr/organization-da4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-hr-organization-03-b-c53"
+  },
+  "/YuanOversea/docs/foundation/hr/training-60f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-hr-training-658-f2c"
+  },
+  "/YuanOversea/docs/foundation/tech/erp-fae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-tech-erpda-9-e46"
+  },
+  "/YuanOversea/docs/foundation/tech/oms-409": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-tech-omsfd-8-8d4"
+  },
+  "/YuanOversea/docs/foundation/tech/wms-529": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-foundation-tech-wms-5-fc-220"
+  },
+  "/YuanOversea/docs/infrastructure-c6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-e-3-977"
+  },
+  "/YuanOversea/docs/infrastructure/4.1-财务管理/成本体系-341": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-1-财务管理-成本体系-881-d1a"
+  },
+  "/YuanOversea/docs/infrastructure/4.1-财务管理/收付体系-47e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-1-财务管理-收付体系-242-546"
+  },
+  "/YuanOversea/docs/infrastructure/4.1-财务管理/税务体系-2f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-1-财务管理-税务体系-93-a-6e7"
+  },
+  "/YuanOversea/docs/infrastructure/4.1-财务管理/预算体系-3f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-1-财务管理-预算体系a-18-02f"
+  },
+  "/YuanOversea/docs/infrastructure/4.2-技术支持/数据中台-ab8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-2-技术支持-数据中台a-16-11c"
+  },
+  "/YuanOversea/docs/infrastructure/4.2-技术支持/ERP系统-ef5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-2-技术支持-er-p系统a-4-b-87e"
+  },
+  "/YuanOversea/docs/infrastructure/4.2-技术支持/OMS系统-57d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-2-技术支持-om-s系统-502-225"
+  },
+  "/YuanOversea/docs/infrastructure/4.2-技术支持/WMS系统-0c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-2-技术支持-wm-s系统b-4-c-369"
+  },
+  "/YuanOversea/docs/infrastructure/4.3-人才体系/培训体系-0b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-3-人才体系-培训体系-92-d-832"
+  },
+  "/YuanOversea/docs/infrastructure/4.3-人才体系/组织架构-f21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-infrastructure-4-3-人才体系-组织架构ed-7-366"
+  },
+  "/YuanOversea/docs/intro-52a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-intro-0-e-3-913"
+  },
+  "/YuanOversea/docs/operation-support-ce6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-supportfeb-66b"
+  },
+  "/YuanOversea/docs/operation-support/analytics/competitor-663": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-analytics-competitore-66-859"
+  },
+  "/YuanOversea/docs/operation-support/analytics/performance-fb8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-analytics-performance-3-e-0-c23"
+  },
+  "/YuanOversea/docs/operation-support/analytics/sales-239": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-analytics-salesa-69-eb7"
+  },
+  "/YuanOversea/docs/operation-support/marketing/content-4ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-marketing-content-5-d-5-2a3"
+  },
+  "/YuanOversea/docs/operation-support/marketing/platform-b5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-marketing-platformdcb-c4b"
+  },
+  "/YuanOversea/docs/operation-support/marketing/social-d6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-marketing-socialb-4-b-9e1"
+  },
+  "/YuanOversea/docs/operation-support/service/aftersales-5cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-service-aftersalesceb-7b0"
+  },
+  "/YuanOversea/docs/operation-support/service/presales-77b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-service-presales-8-dd-db3"
+  },
+  "/YuanOversea/docs/operation-support/service/standards-0dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operation-support-service-standards-5-a-9-72b"
+  },
+  "/YuanOversea/docs/operations-6b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operationsce-9-d58"
+  },
+  "/YuanOversea/docs/operations/3.1-营销体系/内容营销-727": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-1-营销体系-内容营销-060-387"
+  },
+  "/YuanOversea/docs/operations/3.1-营销体系/品牌营销-310": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-1-营销体系-品牌营销b-4-c-f5e"
+  },
+  "/YuanOversea/docs/operations/3.1-营销体系/社媒运营-b81": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-1-营销体系-社媒运营-7-b-4-7df"
+  },
+  "/YuanOversea/docs/operations/3.1-营销体系/站内营销-c80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-1-营销体系-站内营销-873-118"
+  },
+  "/YuanOversea/docs/operations/3.1-营销体系/站外引流-c65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-1-营销体系-站外引流e-90-008"
+  },
+  "/YuanOversea/docs/operations/3.2-数据分析/竞品分析-3a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-2-数据分析-竞品分析e-58-fa3"
+  },
+  "/YuanOversea/docs/operations/3.2-数据分析/决策支持-8bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-2-数据分析-决策支持c-3-c-651"
+  },
+  "/YuanOversea/docs/operations/3.2-数据分析/市场分析-107": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-2-数据分析-市场分析-0-f-8-577"
+  },
+  "/YuanOversea/docs/operations/3.2-数据分析/销售分析-a49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-2-数据分析-销售分析c-1-b-3f9"
+  },
+  "/YuanOversea/docs/operations/3.2-数据分析/效果分析-1bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-2-数据分析-效果分析fbf-dfc"
+  },
+  "/YuanOversea/docs/operations/3.3-客户服务/服务标准-d7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-3-客户服务-服务标准-1-be-f76"
+  },
+  "/YuanOversea/docs/operations/3.3-客户服务/客诉管理-52e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-3-客户服务-客诉管理d-9-d-cc1"
+  },
+  "/YuanOversea/docs/operations/3.3-客户服务/售后管理-08d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-3-客户服务-售后管理-21-e-1d7"
+  },
+  "/YuanOversea/docs/operations/3.3-客户服务/售前指南-ea5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-operations-3-3-客户服务-售前指南-931-f09"
+  },
+  "/YuanOversea/docs/resources-17e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resourcescd-9-b38"
+  },
+  "/YuanOversea/docs/resources/6.1-服务商/物流服务商-298": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resources-6-1-服务商-物流服务商f-1-f-085"
+  },
+  "/YuanOversea/docs/resources/6.1-服务商/营销服务商-662": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resources-6-1-服务商-营销服务商-36-e-797"
+  },
+  "/YuanOversea/docs/resources/6.1-服务商/支付服务商-1b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resources-6-1-服务商-支付服务商d-12-00e"
+  },
+  "/YuanOversea/docs/resources/6.1-服务商/SaaS服务商-b97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resources-6-1-服务商-saa-s服务商-5-fa-dd6"
+  },
+  "/YuanOversea/docs/resources/6.2-行业资源/行业动态-51c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resources-6-2-行业资源-行业动态e-84-d8d"
+  },
+  "/YuanOversea/docs/resources/6.2-行业资源/展会信息-0fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-resources-6-2-行业资源-展会信息b-6-a-625"
+  },
+  "/YuanOversea/docs/supply-chain-e63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chaine-87-ac9"
+  },
+  "/YuanOversea/docs/supply-chain-29c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-9-eb-eef"
+  },
+  "/YuanOversea/docs/supply-chain/2.1-产品开发/成本核算-094": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-1-产品开发-成本核算c-95-ff2"
+  },
+  "/YuanOversea/docs/supply-chain/2.1-产品开发/打样确认-767": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-1-产品开发-打样确认-282-5d1"
+  },
+  "/YuanOversea/docs/supply-chain/2.1-产品开发/开发流程-9ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-1-产品开发-开发流程ecc-876"
+  },
+  "/YuanOversea/docs/supply-chain/2.1-产品开发/选品策略-086": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-1-产品开发-选品策略eae-c86"
+  },
+  "/YuanOversea/docs/supply-chain/2.1-产品开发/质量标准-fce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-1-产品开发-质量标准b-06-29d"
+  },
+  "/YuanOversea/docs/supply-chain/2.2-供应商/供应商开发-6e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-2-供应商-供应商开发ce-0-ee1"
+  },
+  "/YuanOversea/docs/supply-chain/2.2-供应商/合作模式-aea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-2-供应商-合作模式a-07-6a2"
+  },
+  "/YuanOversea/docs/supply-chain/2.2-供应商/评估体系-6ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-2-供应商-评估体系-015-98d"
+  },
+  "/YuanOversea/docs/supply-chain/2.2-供应商/质量管控-471": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-2-供应商-质量管控-9-ae-26a"
+  },
+  "/YuanOversea/docs/supply-chain/2.3-仓储物流/仓储管理-940": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-3-仓储物流-仓储管理-983-a28"
+  },
+  "/YuanOversea/docs/supply-chain/2.3-仓储物流/库存管理-a52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-3-仓储物流-库存管理-97-a-cf2"
+  },
+  "/YuanOversea/docs/supply-chain/2.3-仓储物流/配送体系-1aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-3-仓储物流-配送体系-52-a-6a6"
+  },
+  "/YuanOversea/docs/supply-chain/2.3-仓储物流/物流方案-142": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-2-3-仓储物流-物流方案d-74-7b7"
+  },
+  "/YuanOversea/docs/supply-chain/logistics/inventory-6a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-logistics-inventorye-53-cc9"
+  },
+  "/YuanOversea/docs/supply-chain/logistics/shipping-f50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-logistics-shipping-34-c-6c5"
+  },
+  "/YuanOversea/docs/supply-chain/logistics/warehouse-11c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-logistics-warehouse-836-da7"
+  },
+  "/YuanOversea/docs/supply-chain/product/development-976": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-product-development-22-d-549"
+  },
+  "/YuanOversea/docs/supply-chain/product/quality-332": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-product-qualityd-6-e-8f5"
+  },
+  "/YuanOversea/docs/supply-chain/product/selection-81a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-product-selection-498-762"
+  },
+  "/YuanOversea/docs/supply-chain/supplier/cooperation-02f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-supplier-cooperation-3-ac-fb8"
+  },
+  "/YuanOversea/docs/supply-chain/supplier/evaluation-c8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-supplier-evaluationebe-b08"
+  },
+  "/YuanOversea/docs/supply-chain/supplier/sourcing-df0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-supply-chain-supplier-sourcing-202-99a"
+  },
+  "/YuanOversea/docs/tools-6cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-96-f-36e"
+  },
+  "/YuanOversea/docs/tools/7.1-标准文档/操作指南-0e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-7-1-标准文档-操作指南f-0-c-354"
+  },
+  "/YuanOversea/docs/tools/7.1-标准文档/分析模板-bec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-7-1-标准文档-分析模板-9-a-7-a57"
+  },
+  "/YuanOversea/docs/tools/7.1-标准文档/考核标准-6b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-7-1-标准文档-考核标准c-8-a-7f4"
+  },
+  "/YuanOversea/docs/tools/7.1-标准文档/实操指南-320": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-7-1-标准文档-实操指南-6-d-6-a31"
+  },
+  "/YuanOversea/docs/tools/7.2-案例库/成功案例-f67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-7-2-案例库-成功案例-84-f-cc4"
+  },
+  "/YuanOversea/docs/tools/7.2-案例库/失败案例-823": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-7-2-案例库-失败案例-257-786"
+  },
+  "/YuanOversea/docs/tools/cases/success-8b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-cases-successf-2-e-8a7"
+  },
+  "/YuanOversea/docs/tools/docs/operation-239": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---yuan-oversea-docs-tools-docs-operation-37-b-a10"
+  },
+  "/YuanOversea/-f68": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---yuan-oversea-db-8-154"
+    },
+    "config": "config---yuan-oversea-5-e-9-fb6"
+  }
+}

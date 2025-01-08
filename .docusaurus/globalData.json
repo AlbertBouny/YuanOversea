@@ -1,0 +1,628 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/YuanOversea/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/YuanOversea/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "compliance/5.1-平台合规/产品合规",
+              "path": "/YuanOversea/docs/compliance/5.1-平台合规/产品合规"
+            },
+            {
+              "id": "compliance/5.1-平台合规/账号安全",
+              "path": "/YuanOversea/docs/compliance/5.1-平台合规/账号安全"
+            },
+            {
+              "id": "compliance/5.1-平台合规/政策合规",
+              "path": "/YuanOversea/docs/compliance/5.1-平台合规/政策合规"
+            },
+            {
+              "id": "compliance/5.2-法务合规/合同管理",
+              "path": "/YuanOversea/docs/compliance/5.2-法务合规/合同管理"
+            },
+            {
+              "id": "compliance/5.2-法务合规/知识产权",
+              "path": "/YuanOversea/docs/compliance/5.2-法务合规/知识产权"
+            },
+            {
+              "id": "compliance/index",
+              "path": "/YuanOversea/docs/compliance/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "compliance/platform/policy",
+              "path": "/YuanOversea/docs/compliance/platform/policy"
+            },
+            {
+              "id": "compliance/platform/product",
+              "path": "/YuanOversea/docs/compliance/platform/product"
+            },
+            {
+              "id": "core/1.1-平台运营/平台概览",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/平台概览"
+            },
+            {
+              "id": "core/1.1-平台运营/平台选择",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/平台选择"
+            },
+            {
+              "id": "core/1.1-平台运营/其他平台/eBay/平台介绍",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/其他平台/eBay/平台介绍"
+            },
+            {
+              "id": "core/1.1-平台运营/其他平台/Lazada/平台介绍",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/其他平台/Lazada/平台介绍"
+            },
+            {
+              "id": "core/1.1-平台运营/其他平台/Shopee/平台介绍",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/其他平台/Shopee/平台介绍"
+            },
+            {
+              "id": "core/1.1-平台运营/其他平台/Walmart/平台介绍",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/其他平台/Walmart/平台介绍"
+            },
+            {
+              "id": "core/1.1-平台运营/市场概览",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/市场概览"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/产品管理",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/产品管理"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/店铺运营",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/店铺运营"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/定价策略",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/定价策略"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/绩效管理",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/绩效管理"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/库存管理",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/库存管理"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/品牌建设",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/品牌建设"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/平台规则",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/平台规则"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/售后服务",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/售后服务"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/数据分析",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/数据分析"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/投放策略",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/投放策略"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/营销策略",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/营销策略"
+            },
+            {
+              "id": "core/1.1-平台运营/亚马逊/账号安全",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/亚马逊/账号安全"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/店铺运营",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/店铺运营"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/合规管理",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/合规管理"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/客户服务",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/客户服务"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/平台规则",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/平台规则"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/平台介绍",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/平台介绍"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/数据分析",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/数据分析"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/物流仓储",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/物流仓储"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/选品策略",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/选品策略"
+            },
+            {
+              "id": "core/1.1-平台运营/Temu/Temu/营销推广",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/Temu/Temu/营销推广"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/达人合作",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/达人合作"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/活动运营",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/活动运营"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/客户服务",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/客户服务"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/平台规则",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/平台规则"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/平台介绍",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/平台介绍"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/商品管理",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/商品管理"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/视频运营",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/视频运营"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/数据分析",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/数据分析"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/投放策略",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/投放策略"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/账号管理",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/账号管理"
+            },
+            {
+              "id": "core/1.1-平台运营/TikTok/直播运营",
+              "path": "/YuanOversea/docs/core/1.1-平台运营/TikTok/直播运营"
+            },
+            {
+              "id": "core/1.2-商业模式/代运营模式",
+              "path": "/YuanOversea/docs/core/1.2-商业模式/代运营模式"
+            },
+            {
+              "id": "core/1.2-商业模式/分销模式",
+              "path": "/YuanOversea/docs/core/1.2-商业模式/分销模式"
+            },
+            {
+              "id": "core/1.2-商业模式/品牌孵化",
+              "path": "/YuanOversea/docs/core/1.2-商业模式/品牌孵化"
+            },
+            {
+              "id": "core/1.2-商业模式/直播体系",
+              "path": "/YuanOversea/docs/core/1.2-商业模式/直播体系"
+            },
+            {
+              "id": "core/1.2-商业模式/自营模式",
+              "path": "/YuanOversea/docs/core/1.2-商业模式/自营模式"
+            },
+            {
+              "id": "core/business-model/index",
+              "path": "/YuanOversea/docs/core/business-model/"
+            },
+            {
+              "id": "core/index",
+              "path": "/YuanOversea/docs/core/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "core/platform-operations/overview",
+              "path": "/YuanOversea/docs/core/platform-operations/overview"
+            },
+            {
+              "id": "core/README",
+              "path": "/YuanOversea/docs/core/"
+            },
+            {
+              "id": "core/temu/index",
+              "path": "/YuanOversea/docs/core/temu/"
+            },
+            {
+              "id": "core/temu/intro",
+              "path": "/YuanOversea/docs/core/temu/intro"
+            },
+            {
+              "id": "core/temu/marketing",
+              "path": "/YuanOversea/docs/core/temu/marketing"
+            },
+            {
+              "id": "core/temu/operation",
+              "path": "/YuanOversea/docs/core/temu/operation"
+            },
+            {
+              "id": "core/temu/rules",
+              "path": "/YuanOversea/docs/core/temu/rules"
+            },
+            {
+              "id": "core/temu/service",
+              "path": "/YuanOversea/docs/core/temu/service"
+            },
+            {
+              "id": "foundation/finance/cost",
+              "path": "/YuanOversea/docs/foundation/finance/cost"
+            },
+            {
+              "id": "foundation/finance/payment",
+              "path": "/YuanOversea/docs/foundation/finance/payment"
+            },
+            {
+              "id": "foundation/finance/tax",
+              "path": "/YuanOversea/docs/foundation/finance/tax"
+            },
+            {
+              "id": "foundation/hr/organization",
+              "path": "/YuanOversea/docs/foundation/hr/organization"
+            },
+            {
+              "id": "foundation/hr/training",
+              "path": "/YuanOversea/docs/foundation/hr/training"
+            },
+            {
+              "id": "foundation/index",
+              "path": "/YuanOversea/docs/foundation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "foundation/tech/erp",
+              "path": "/YuanOversea/docs/foundation/tech/erp"
+            },
+            {
+              "id": "foundation/tech/oms",
+              "path": "/YuanOversea/docs/foundation/tech/oms"
+            },
+            {
+              "id": "foundation/tech/wms",
+              "path": "/YuanOversea/docs/foundation/tech/wms"
+            },
+            {
+              "id": "infrastructure/4.1-财务管理/成本体系",
+              "path": "/YuanOversea/docs/infrastructure/4.1-财务管理/成本体系"
+            },
+            {
+              "id": "infrastructure/4.1-财务管理/收付体系",
+              "path": "/YuanOversea/docs/infrastructure/4.1-财务管理/收付体系"
+            },
+            {
+              "id": "infrastructure/4.1-财务管理/税务体系",
+              "path": "/YuanOversea/docs/infrastructure/4.1-财务管理/税务体系"
+            },
+            {
+              "id": "infrastructure/4.1-财务管理/预算体系",
+              "path": "/YuanOversea/docs/infrastructure/4.1-财务管理/预算体系"
+            },
+            {
+              "id": "infrastructure/4.2-技术支持/数据中台",
+              "path": "/YuanOversea/docs/infrastructure/4.2-技术支持/数据中台"
+            },
+            {
+              "id": "infrastructure/4.2-技术支持/ERP系统",
+              "path": "/YuanOversea/docs/infrastructure/4.2-技术支持/ERP系统"
+            },
+            {
+              "id": "infrastructure/4.2-技术支持/OMS系统",
+              "path": "/YuanOversea/docs/infrastructure/4.2-技术支持/OMS系统"
+            },
+            {
+              "id": "infrastructure/4.2-技术支持/WMS系统",
+              "path": "/YuanOversea/docs/infrastructure/4.2-技术支持/WMS系统"
+            },
+            {
+              "id": "infrastructure/4.3-人才体系/培训体系",
+              "path": "/YuanOversea/docs/infrastructure/4.3-人才体系/培训体系"
+            },
+            {
+              "id": "infrastructure/4.3-人才体系/组织架构",
+              "path": "/YuanOversea/docs/infrastructure/4.3-人才体系/组织架构"
+            },
+            {
+              "id": "infrastructure/README",
+              "path": "/YuanOversea/docs/infrastructure/"
+            },
+            {
+              "id": "intro",
+              "path": "/YuanOversea/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "operation-support/analytics/competitor",
+              "path": "/YuanOversea/docs/operation-support/analytics/competitor"
+            },
+            {
+              "id": "operation-support/analytics/performance",
+              "path": "/YuanOversea/docs/operation-support/analytics/performance"
+            },
+            {
+              "id": "operation-support/analytics/sales",
+              "path": "/YuanOversea/docs/operation-support/analytics/sales"
+            },
+            {
+              "id": "operation-support/index",
+              "path": "/YuanOversea/docs/operation-support/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "operation-support/marketing/content",
+              "path": "/YuanOversea/docs/operation-support/marketing/content"
+            },
+            {
+              "id": "operation-support/marketing/platform",
+              "path": "/YuanOversea/docs/operation-support/marketing/platform"
+            },
+            {
+              "id": "operation-support/marketing/social",
+              "path": "/YuanOversea/docs/operation-support/marketing/social"
+            },
+            {
+              "id": "operation-support/service/aftersales",
+              "path": "/YuanOversea/docs/operation-support/service/aftersales"
+            },
+            {
+              "id": "operation-support/service/presales",
+              "path": "/YuanOversea/docs/operation-support/service/presales"
+            },
+            {
+              "id": "operation-support/service/standards",
+              "path": "/YuanOversea/docs/operation-support/service/standards"
+            },
+            {
+              "id": "operations/3.1-营销体系/内容营销",
+              "path": "/YuanOversea/docs/operations/3.1-营销体系/内容营销"
+            },
+            {
+              "id": "operations/3.1-营销体系/品牌营销",
+              "path": "/YuanOversea/docs/operations/3.1-营销体系/品牌营销"
+            },
+            {
+              "id": "operations/3.1-营销体系/社媒运营",
+              "path": "/YuanOversea/docs/operations/3.1-营销体系/社媒运营"
+            },
+            {
+              "id": "operations/3.1-营销体系/站内营销",
+              "path": "/YuanOversea/docs/operations/3.1-营销体系/站内营销"
+            },
+            {
+              "id": "operations/3.1-营销体系/站外引流",
+              "path": "/YuanOversea/docs/operations/3.1-营销体系/站外引流"
+            },
+            {
+              "id": "operations/3.2-数据分析/竞品分析",
+              "path": "/YuanOversea/docs/operations/3.2-数据分析/竞品分析"
+            },
+            {
+              "id": "operations/3.2-数据分析/决策支持",
+              "path": "/YuanOversea/docs/operations/3.2-数据分析/决策支持"
+            },
+            {
+              "id": "operations/3.2-数据分析/市场分析",
+              "path": "/YuanOversea/docs/operations/3.2-数据分析/市场分析"
+            },
+            {
+              "id": "operations/3.2-数据分析/销售分析",
+              "path": "/YuanOversea/docs/operations/3.2-数据分析/销售分析"
+            },
+            {
+              "id": "operations/3.2-数据分析/效果分析",
+              "path": "/YuanOversea/docs/operations/3.2-数据分析/效果分析"
+            },
+            {
+              "id": "operations/3.3-客户服务/服务标准",
+              "path": "/YuanOversea/docs/operations/3.3-客户服务/服务标准"
+            },
+            {
+              "id": "operations/3.3-客户服务/客诉管理",
+              "path": "/YuanOversea/docs/operations/3.3-客户服务/客诉管理"
+            },
+            {
+              "id": "operations/3.3-客户服务/售后管理",
+              "path": "/YuanOversea/docs/operations/3.3-客户服务/售后管理"
+            },
+            {
+              "id": "operations/3.3-客户服务/售前指南",
+              "path": "/YuanOversea/docs/operations/3.3-客户服务/售前指南"
+            },
+            {
+              "id": "operations/README",
+              "path": "/YuanOversea/docs/operations/"
+            },
+            {
+              "id": "resources/6.1-服务商/物流服务商",
+              "path": "/YuanOversea/docs/resources/6.1-服务商/物流服务商"
+            },
+            {
+              "id": "resources/6.1-服务商/营销服务商",
+              "path": "/YuanOversea/docs/resources/6.1-服务商/营销服务商"
+            },
+            {
+              "id": "resources/6.1-服务商/支付服务商",
+              "path": "/YuanOversea/docs/resources/6.1-服务商/支付服务商"
+            },
+            {
+              "id": "resources/6.1-服务商/SaaS服务商",
+              "path": "/YuanOversea/docs/resources/6.1-服务商/SaaS服务商"
+            },
+            {
+              "id": "resources/6.2-行业资源/行业动态",
+              "path": "/YuanOversea/docs/resources/6.2-行业资源/行业动态"
+            },
+            {
+              "id": "resources/6.2-行业资源/展会信息",
+              "path": "/YuanOversea/docs/resources/6.2-行业资源/展会信息"
+            },
+            {
+              "id": "resources/index",
+              "path": "/YuanOversea/docs/resources/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "supply-chain/2.1-产品开发/成本核算",
+              "path": "/YuanOversea/docs/supply-chain/2.1-产品开发/成本核算"
+            },
+            {
+              "id": "supply-chain/2.1-产品开发/打样确认",
+              "path": "/YuanOversea/docs/supply-chain/2.1-产品开发/打样确认"
+            },
+            {
+              "id": "supply-chain/2.1-产品开发/开发流程",
+              "path": "/YuanOversea/docs/supply-chain/2.1-产品开发/开发流程"
+            },
+            {
+              "id": "supply-chain/2.1-产品开发/选品策略",
+              "path": "/YuanOversea/docs/supply-chain/2.1-产品开发/选品策略"
+            },
+            {
+              "id": "supply-chain/2.1-产品开发/质量标准",
+              "path": "/YuanOversea/docs/supply-chain/2.1-产品开发/质量标准"
+            },
+            {
+              "id": "supply-chain/2.2-供应商/供应商开发",
+              "path": "/YuanOversea/docs/supply-chain/2.2-供应商/供应商开发"
+            },
+            {
+              "id": "supply-chain/2.2-供应商/合作模式",
+              "path": "/YuanOversea/docs/supply-chain/2.2-供应商/合作模式"
+            },
+            {
+              "id": "supply-chain/2.2-供应商/评估体系",
+              "path": "/YuanOversea/docs/supply-chain/2.2-供应商/评估体系"
+            },
+            {
+              "id": "supply-chain/2.2-供应商/质量管控",
+              "path": "/YuanOversea/docs/supply-chain/2.2-供应商/质量管控"
+            },
+            {
+              "id": "supply-chain/2.3-仓储物流/仓储管理",
+              "path": "/YuanOversea/docs/supply-chain/2.3-仓储物流/仓储管理"
+            },
+            {
+              "id": "supply-chain/2.3-仓储物流/库存管理",
+              "path": "/YuanOversea/docs/supply-chain/2.3-仓储物流/库存管理"
+            },
+            {
+              "id": "supply-chain/2.3-仓储物流/配送体系",
+              "path": "/YuanOversea/docs/supply-chain/2.3-仓储物流/配送体系"
+            },
+            {
+              "id": "supply-chain/2.3-仓储物流/物流方案",
+              "path": "/YuanOversea/docs/supply-chain/2.3-仓储物流/物流方案"
+            },
+            {
+              "id": "supply-chain/index",
+              "path": "/YuanOversea/docs/supply-chain/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "supply-chain/logistics/inventory",
+              "path": "/YuanOversea/docs/supply-chain/logistics/inventory"
+            },
+            {
+              "id": "supply-chain/logistics/shipping",
+              "path": "/YuanOversea/docs/supply-chain/logistics/shipping"
+            },
+            {
+              "id": "supply-chain/logistics/warehouse",
+              "path": "/YuanOversea/docs/supply-chain/logistics/warehouse"
+            },
+            {
+              "id": "supply-chain/product/development",
+              "path": "/YuanOversea/docs/supply-chain/product/development"
+            },
+            {
+              "id": "supply-chain/product/quality",
+              "path": "/YuanOversea/docs/supply-chain/product/quality"
+            },
+            {
+              "id": "supply-chain/product/selection",
+              "path": "/YuanOversea/docs/supply-chain/product/selection"
+            },
+            {
+              "id": "supply-chain/README",
+              "path": "/YuanOversea/docs/supply-chain/"
+            },
+            {
+              "id": "supply-chain/supplier/cooperation",
+              "path": "/YuanOversea/docs/supply-chain/supplier/cooperation"
+            },
+            {
+              "id": "supply-chain/supplier/evaluation",
+              "path": "/YuanOversea/docs/supply-chain/supplier/evaluation"
+            },
+            {
+              "id": "supply-chain/supplier/sourcing",
+              "path": "/YuanOversea/docs/supply-chain/supplier/sourcing"
+            },
+            {
+              "id": "tools/7.1-标准文档/操作指南",
+              "path": "/YuanOversea/docs/tools/7.1-标准文档/操作指南"
+            },
+            {
+              "id": "tools/7.1-标准文档/分析模板",
+              "path": "/YuanOversea/docs/tools/7.1-标准文档/分析模板"
+            },
+            {
+              "id": "tools/7.1-标准文档/考核标准",
+              "path": "/YuanOversea/docs/tools/7.1-标准文档/考核标准"
+            },
+            {
+              "id": "tools/7.1-标准文档/实操指南",
+              "path": "/YuanOversea/docs/tools/7.1-标准文档/实操指南"
+            },
+            {
+              "id": "tools/7.2-案例库/成功案例",
+              "path": "/YuanOversea/docs/tools/7.2-案例库/成功案例"
+            },
+            {
+              "id": "tools/7.2-案例库/失败案例",
+              "path": "/YuanOversea/docs/tools/7.2-案例库/失败案例"
+            },
+            {
+              "id": "tools/cases/success",
+              "path": "/YuanOversea/docs/tools/cases/success"
+            },
+            {
+              "id": "tools/docs/operation",
+              "path": "/YuanOversea/docs/tools/docs/operation"
+            },
+            {
+              "id": "tools/index",
+              "path": "/YuanOversea/docs/tools/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/YuanOversea/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

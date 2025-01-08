@@ -1,0 +1,18 @@
+{
+  "id": "core/order/fulfillment",
+  "title": "订单履约指南",
+  "description": "订单履约是跨境电商业务的核心环节，直接影响客户满意度和运营效率。本指南将帮助你建立高效的订单履约体系。",
+  "source": "@site/docs/core/order/fulfillment.md",
+  "sourceDirName": "core/order",
+  "slug": "/core/order/fulfillment",
+  "permalink": "/YuanOversea/docs/core/order/fulfillment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/order/fulfillment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

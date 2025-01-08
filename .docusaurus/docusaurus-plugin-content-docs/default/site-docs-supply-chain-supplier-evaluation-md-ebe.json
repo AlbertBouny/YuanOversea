@@ -1,0 +1,21 @@
+{
+  "id": "supply-chain/supplier/evaluation",
+  "title": "供应商评估",
+  "description": "一、评估体系",
+  "source": "@site/docs/supply-chain/supplier/evaluation.md",
+  "sourceDirName": "supply-chain/supplier",
+  "slug": "/supply-chain/supplier/evaluation",
+  "permalink": "/YuanOversea/docs/supply-chain/supplier/evaluation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/supplier/evaluation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "供应商评估",
+    "parent": "供应商管理",
+    "grand_parent": "供应链管理",
+    "nav_order": 2
+  }
+}

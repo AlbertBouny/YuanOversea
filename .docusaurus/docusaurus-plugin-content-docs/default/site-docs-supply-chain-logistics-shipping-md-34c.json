@@ -1,0 +1,21 @@
+{
+  "id": "supply-chain/logistics/shipping",
+  "title": "物流方案",
+  "description": "一、物流模式",
+  "source": "@site/docs/supply-chain/logistics/shipping.md",
+  "sourceDirName": "supply-chain/logistics",
+  "slug": "/supply-chain/logistics/shipping",
+  "permalink": "/YuanOversea/docs/supply-chain/logistics/shipping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/logistics/shipping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "物流方案",
+    "parent": "仓储物流",
+    "grand_parent": "供应链管理",
+    "nav_order": 2
+  }
+}

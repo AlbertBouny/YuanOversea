@@ -1,0 +1,21 @@
+{
+  "id": "foundation/finance/cost",
+  "title": "成本体系",
+  "description": "一、成本构成",
+  "source": "@site/docs/foundation/finance/cost.md",
+  "sourceDirName": "foundation/finance",
+  "slug": "/foundation/finance/cost",
+  "permalink": "/YuanOversea/docs/foundation/finance/cost",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/foundation/finance/cost.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "成本体系",
+    "parent": "财务管理",
+    "grand_parent": "基础支撑",
+    "nav_order": 2
+  }
+}

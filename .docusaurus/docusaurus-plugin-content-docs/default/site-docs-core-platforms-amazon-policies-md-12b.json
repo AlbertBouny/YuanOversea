@@ -1,0 +1,38 @@
+{
+  "id": "core/platforms/amazon/policies",
+  "title": "平台政策与规则",
+  "description": "亚马逊平台政策、规则及违规处理指南",
+  "source": "@site/docs/core/platforms/amazon/policies.md",
+  "sourceDirName": "core/platforms/amazon",
+  "slug": "/core/platforms/amazon/policies",
+  "permalink": "/YuanOversea/docs/core/platforms/amazon/policies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/platforms/amazon/policies.md",
+  "tags": [
+    {
+      "label": "平台规则",
+      "permalink": "/YuanOversea/docs/tags/平台规则"
+    },
+    {
+      "label": "政策指南",
+      "permalink": "/YuanOversea/docs/tags/政策指南"
+    },
+    {
+      "label": "违规处理",
+      "permalink": "/YuanOversea/docs/tags/违规处理"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "平台政策与规则",
+    "description": "亚马逊平台政策、规则及违规处理指南",
+    "tags": [
+      "平台规则",
+      "政策指南",
+      "违规处理"
+    ]
+  }
+}

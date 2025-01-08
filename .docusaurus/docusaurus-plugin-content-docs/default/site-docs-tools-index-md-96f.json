@@ -1,0 +1,25 @@
+{
+  "id": "tools/index",
+  "title": "工具模板",
+  "description": "标准文档",
+  "source": "@site/docs/tools/index.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/",
+  "permalink": "/YuanOversea/docs/tools/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/tools/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "工具模板",
+    "nav_order": 7,
+    "has_children": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "资源对接",
+    "permalink": "/YuanOversea/docs/resources/"
+  }
+}

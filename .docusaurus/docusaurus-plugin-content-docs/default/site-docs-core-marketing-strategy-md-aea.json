@@ -1,0 +1,18 @@
+{
+  "id": "core/marketing/strategy",
+  "title": "营销策略指南",
+  "description": "跨境电商营销策略是提升品牌知名度和销售业绩的关键。本指南将帮助你制定有效的营销策略。",
+  "source": "@site/docs/core/marketing/strategy.md",
+  "sourceDirName": "core/marketing",
+  "slug": "/core/marketing/strategy",
+  "permalink": "/YuanOversea/docs/core/marketing/strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/marketing/strategy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

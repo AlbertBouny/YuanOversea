@@ -1,0 +1,21 @@
+{
+  "id": "core/temu/compliance",
+  "title": "合规管理",
+  "description": "一、合规体系",
+  "source": "@site/docs/core/temu/compliance.md",
+  "sourceDirName": "core/temu",
+  "slug": "/core/temu/compliance",
+  "permalink": "/docs/core/temu/compliance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/temu/compliance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "合规管理",
+    "nav_order": 5,
+    "has_toc": true,
+    "parent": "Temu运营"
+  }
+}

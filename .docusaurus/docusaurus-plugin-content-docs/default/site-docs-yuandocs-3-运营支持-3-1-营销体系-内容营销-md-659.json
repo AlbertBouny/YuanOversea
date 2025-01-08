@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/运营支持/3.1-营销体系/内容营销",
+  "title": "内容营销 Content Marketing",
+  "description": "最后更新时间：2024-03-21",
+  "source": "@site/docs/yuandocs/3-运营支持/3.1-营销体系/内容营销.md",
+  "sourceDirName": "yuandocs/3-运营支持/3.1-营销体系",
+  "slug": "/yuandocs/运营支持/3.1-营销体系/内容营销",
+  "permalink": "/YuanOversea/docs/yuandocs/运营支持/3.1-营销体系/内容营销",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/3-运营支持/3.1-营销体系/内容营销.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "质量标准 Quality Standards",
+    "permalink": "/YuanOversea/docs/yuandocs/供应链/2.1-产品开发/质量标准"
+  },
+  "next": {
+    "title": "销售分析 Sales Analysis",
+    "permalink": "/YuanOversea/docs/yuandocs/运营支持/3.2-数据分析/销售分析"
+  }
+}

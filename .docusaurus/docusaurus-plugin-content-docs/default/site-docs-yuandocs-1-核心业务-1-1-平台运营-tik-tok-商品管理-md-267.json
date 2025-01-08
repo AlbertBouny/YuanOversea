@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/核心业务/1.1-平台运营/TikTok/商品管理",
+  "title": "TikTok商品管理指南",
+  "description": "一、商品发布规范",
+  "source": "@site/docs/yuandocs/1-核心业务/1.1-平台运营/TikTok/商品管理.md",
+  "sourceDirName": "yuandocs/1-核心业务/1.1-平台运营/TikTok",
+  "slug": "/yuandocs/核心业务/1.1-平台运营/TikTok/商品管理",
+  "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/TikTok/商品管理",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/1-核心业务/1.1-平台运营/TikTok/商品管理.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "TikTok Shop平台介绍",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/TikTok/平台介绍"
+  },
+  "next": {
+    "title": "TikTok直播运营指南",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/TikTok/直播运营"
+  }
+}

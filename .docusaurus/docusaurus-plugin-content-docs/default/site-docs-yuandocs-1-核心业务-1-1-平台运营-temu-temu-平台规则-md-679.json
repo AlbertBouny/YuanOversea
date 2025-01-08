@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台规则",
+  "title": "Temu平台规则指南",
+  "description": "一、基础规则",
+  "source": "@site/docs/yuandocs/1-核心业务/1.1-平台运营/Temu/Temu/平台规则.md",
+  "sourceDirName": "yuandocs/1-核心业务/1.1-平台运营/Temu/Temu",
+  "slug": "/yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台规则",
+  "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/1-核心业务/1.1-平台运营/Temu/Temu/平台规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Temu合规管理指南",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/合规管理"
+  },
+  "next": {
+    "title": "产品管理体系 Product Management System",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/亚马逊/产品管理"
+  }
+}

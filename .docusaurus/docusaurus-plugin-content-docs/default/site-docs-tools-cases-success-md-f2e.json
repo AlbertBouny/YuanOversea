@@ -1,0 +1,19 @@
+{
+  "id": "tools/cases/success",
+  "title": "成功案例",
+  "description": "一、案例分析",
+  "source": "@site/docs/tools/cases/success.md",
+  "sourceDirName": "tools/cases",
+  "slug": "/tools/cases/success",
+  "permalink": "/YuanOversea/docs/tools/cases/success",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/tools/cases/success.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "成功案例"
+  }
+}

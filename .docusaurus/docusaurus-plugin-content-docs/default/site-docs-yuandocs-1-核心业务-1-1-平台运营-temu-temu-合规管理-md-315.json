@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/核心业务/1.1-平台运营/Temu/Temu/合规管理",
+  "title": "Temu合规管理指南",
+  "description": "一、合规体系",
+  "source": "@site/docs/yuandocs/1-核心业务/1.1-平台运营/Temu/Temu/合规管理.md",
+  "sourceDirName": "yuandocs/1-核心业务/1.1-平台运营/Temu/Temu",
+  "slug": "/yuandocs/核心业务/1.1-平台运营/Temu/Temu/合规管理",
+  "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/合规管理",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/1-核心业务/1.1-平台运营/Temu/Temu/合规管理.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Temu客户服务指南",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/客户服务"
+  },
+  "next": {
+    "title": "Temu平台规则指南",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台规则"
+  }
+}

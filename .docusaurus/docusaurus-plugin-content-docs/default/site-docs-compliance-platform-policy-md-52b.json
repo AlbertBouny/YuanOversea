@@ -1,0 +1,22 @@
+{
+  "id": "compliance/platform/policy",
+  "title": "政策合规",
+  "description": "一、政策体系",
+  "source": "@site/docs/compliance/platform/policy.md",
+  "sourceDirName": "compliance/platform",
+  "slug": "/compliance/platform/policy",
+  "permalink": "/YuanOversea/docs/compliance/platform/policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/compliance/platform/policy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "政策合规",
+    "nav_order": 2,
+    "parent": "平台合规",
+    "grand_parent": "合规风控",
+    "has_toc": true
+  }
+}

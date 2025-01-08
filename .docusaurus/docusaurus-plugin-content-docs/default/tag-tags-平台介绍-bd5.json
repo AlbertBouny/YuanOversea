@@ -1,0 +1,15 @@
+{
+  "label": "平台介绍",
+  "permalink": "/tags/平台介绍",
+  "allTagsPath": "/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "core/platforms/amazon/introduction",
+      "title": "亚马逊平台介绍",
+      "description": "亚马逊跨境电商平台特点、优势和运营要点",
+      "permalink": "/core/platforms/amazon/introduction"
+    }
+  ],
+  "unlisted": false
+}

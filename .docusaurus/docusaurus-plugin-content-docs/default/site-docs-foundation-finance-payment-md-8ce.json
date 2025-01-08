@@ -1,0 +1,21 @@
+{
+  "id": "foundation/finance/payment",
+  "title": "收付体系",
+  "description": "一、收款管理",
+  "source": "@site/docs/foundation/finance/payment.md",
+  "sourceDirName": "foundation/finance",
+  "slug": "/foundation/finance/payment",
+  "permalink": "/YuanOversea/docs/foundation/finance/payment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/foundation/finance/payment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "收付体系",
+    "parent": "财务管理",
+    "grand_parent": "基础支撑",
+    "nav_order": 1
+  }
+}

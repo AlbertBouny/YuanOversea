@@ -1,0 +1,21 @@
+{
+  "id": "supply-chain/supplier/sourcing",
+  "title": "供应商开发",
+  "description": "一、开发流程",
+  "source": "@site/docs/supply-chain/supplier/sourcing.md",
+  "sourceDirName": "supply-chain/supplier",
+  "slug": "/supply-chain/supplier/sourcing",
+  "permalink": "/YuanOversea/docs/supply-chain/supplier/sourcing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/supplier/sourcing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "供应商开发",
+    "parent": "供应商管理",
+    "grand_parent": "供应链管理",
+    "nav_order": 1
+  }
+}

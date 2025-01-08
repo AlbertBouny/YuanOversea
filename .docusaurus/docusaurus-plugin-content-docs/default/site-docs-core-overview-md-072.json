@@ -1,0 +1,18 @@
+{
+  "id": "core/overview",
+  "title": "核心业务概述",
+  "description": "跨境电商的核心业务流程是企业运营的基础，主要包括以下几个关键环节：",
+  "source": "@site/docs/core/overview.md",
+  "sourceDirName": "core",
+  "slug": "/core/overview",
+  "permalink": "/YuanOversea/docs/core/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/core/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

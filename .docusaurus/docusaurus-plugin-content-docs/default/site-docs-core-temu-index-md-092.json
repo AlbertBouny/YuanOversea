@@ -1,0 +1,18 @@
+{
+  "id": "core/temu/index",
+  "title": "Temu运营指南",
+  "description": "简介",
+  "source": "@site/docs/core/temu/index.md",
+  "sourceDirName": "core/temu",
+  "slug": "/core/temu/",
+  "permalink": "/YuanOversea/docs/core/temu/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/core/temu/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "operation-support/overview",
+  "title": "运营支持概述",
+  "description": "运营支持是保障跨境电商业务顺利开展的重要环节，包括客户服务、售后支持和数据分析等方面。",
+  "source": "@site/docs/operation-support/overview.md",
+  "sourceDirName": "operation-support",
+  "slug": "/operation-support/overview",
+  "permalink": "/YuanOversea/docs/operation-support/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/operation-support/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "yuandocs/核心业务/1.1-平台运营/亚马逊/营销策略",
+  "title": "营销推广策略 Marketing Strategy",
+  "description": "",
+  "source": "@site/docs/yuandocs/1-核心业务/1.1-平台运营/亚马逊/营销策略.md",
+  "sourceDirName": "yuandocs/1-核心业务/1.1-平台运营/亚马逊",
+  "slug": "/yuandocs/核心业务/1.1-平台运营/亚马逊/营销策略",
+  "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/亚马逊/营销策略",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/1-核心业务/1.1-平台运营/亚马逊/营销策略.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "店铺运营标准 Store Operation Standards",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/亚马逊/店铺运营"
+  },
+  "next": {
+    "title": "TikTok Shop平台介绍",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/TikTok/平台介绍"
+  }
+}

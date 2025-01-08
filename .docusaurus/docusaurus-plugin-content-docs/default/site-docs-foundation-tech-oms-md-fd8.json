@@ -1,0 +1,21 @@
+{
+  "id": "foundation/tech/oms",
+  "title": "OMS系统",
+  "description": "一、订单管理",
+  "source": "@site/docs/foundation/tech/oms.md",
+  "sourceDirName": "foundation/tech",
+  "slug": "/foundation/tech/oms",
+  "permalink": "/YuanOversea/docs/foundation/tech/oms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/foundation/tech/oms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "OMS系统",
+    "parent": "技术支持",
+    "grand_parent": "基础支撑",
+    "nav_order": 2
+  }
+}

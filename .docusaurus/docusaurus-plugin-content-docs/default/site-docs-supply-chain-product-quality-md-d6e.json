@@ -1,0 +1,22 @@
+{
+  "id": "supply-chain/product/quality",
+  "title": "质量控制",
+  "description": "一、质量标准",
+  "source": "@site/docs/supply-chain/product/quality.md",
+  "sourceDirName": "supply-chain/product",
+  "slug": "/supply-chain/product/quality",
+  "permalink": "/YuanOversea/docs/supply-chain/product/quality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/product/quality.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "质量控制",
+    "nav_order": 3,
+    "has_toc": true,
+    "parent": "产品开发",
+    "grand_parent": "供应链管理"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "label": "政策指南",
+  "permalink": "/tags/政策指南",
+  "allTagsPath": "/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "core/platforms/amazon/policies",
+      "title": "平台政策与规则",
+      "description": "亚马逊平台政策、规则及违规处理指南",
+      "permalink": "/core/platforms/amazon/policies"
+    }
+  ],
+  "unlisted": false
+}

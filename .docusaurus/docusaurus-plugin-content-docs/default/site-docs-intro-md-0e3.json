@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "跨境电商知识库",
+  "description": "欢迎来到跨境电商知识库！这里包含了跨境电商系统的完整技术文档。",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/YuanOversea/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "核心业务",
+    "permalink": "/YuanOversea/docs/core/"
+  }
+}

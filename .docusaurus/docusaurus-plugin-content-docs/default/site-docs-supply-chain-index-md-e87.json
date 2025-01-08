@@ -1,0 +1,29 @@
+{
+  "id": "supply-chain/index",
+  "title": "供应链管理",
+  "description": "产品开发",
+  "source": "@site/docs/supply-chain/index.md",
+  "sourceDirName": "supply-chain",
+  "slug": "/supply-chain/",
+  "permalink": "/YuanOversea/docs/supply-chain/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/kuajingdianshang/tree/main/docs/supply-chain/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "供应链管理",
+    "nav_order": 2,
+    "has_children": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "核心业务",
+    "permalink": "/YuanOversea/docs/core/"
+  },
+  "next": {
+    "title": "运营支持",
+    "permalink": "/YuanOversea/docs/operation-support/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台介绍",
+  "title": "Temu平台运营指南",
+  "description": "一、平台概述",
+  "source": "@site/docs/yuandocs/1-核心业务/1.1-平台运营/Temu/Temu/平台介绍.md",
+  "sourceDirName": "yuandocs/1-核心业务/1.1-平台运营/Temu/Temu",
+  "slug": "/yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台介绍",
+  "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/平台介绍",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/AlbertBouny/YuanOversea/edit/main/docs/yuandocs/1-核心业务/1.1-平台运营/Temu/Temu/平台介绍.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "next": {
+    "title": "Temu店铺运营指南",
+    "permalink": "/YuanOversea/docs/yuandocs/核心业务/1.1-平台运营/Temu/Temu/店铺运营"
+  }
+}
