@@ -26,16 +26,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-# 导航配置
-nav_external_links:
-  - title: GitHub
-    url: https://github.com/AlbertBouny/YuanOversea
-    hide_icon: false
-
-# 目录排序
-nav_sort: case_sensitive
-
-# 启用搜索
+# 搜索配置
 search:
   heading_level: 3
   previews: 3
