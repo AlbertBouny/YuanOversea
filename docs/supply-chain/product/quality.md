@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 质量控制
+nav_order: 3
+has_toc: true
 parent: 产品开发
 grand_parent: 供应链管理
-nav_order: 3
 ---
 
 # 质量控制

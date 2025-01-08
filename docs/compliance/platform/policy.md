@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 政策合规
+nav_order: 2
 parent: 平台合规
 grand_parent: 合规风控
-nav_order: 2
+has_toc: true
 ---
 
 # 政策合规

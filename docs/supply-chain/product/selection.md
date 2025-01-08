@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 选品策略
+nav_order: 1
+has_toc: true
 parent: 产品开发
 grand_parent: 供应链管理
-nav_order: 1
 ---
 
 # 选品策略

@@ -2,8 +2,8 @@
 layout: default
 title: 合规管理
 nav_order: 5
+has_toc: true
 parent: Temu运营
-grand_parent: 核心业务
 ---
 
 # Temu合规管理指南
