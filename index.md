@@ -11,63 +11,64 @@ permalink: /
 完整的跨境电商运营知识体系，帮助你快速掌握跨境电商运营技能。
 {: .fs-6 .fw-300 }
 
-[开始阅读](#主要内容){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[开始阅读](#快速开始){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub 仓库](https://github.com/AlbertBouny/YuanOversea){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## 主要内容
+## 快速开始
 
-### 核心业务
+1. [基础支撑]({{ site.baseurl }}/docs/foundation/) - 新人必读
+2. [平台运营]({{ site.baseurl }}/docs/core/) - 掌握所需平台运营知识
+3. [工具模板]({{ site.baseurl }}/docs/tools/) - 运营所需工具和模板
+
+## 内容导航
+
+### [核心业务]({{ site.baseurl }}/docs/core/)
 {: .text-delta }
 
-1. [Temu运营]({{ site.baseurl }}/docs/core/temu/intro)
-   - Temu平台运营完整指南
-   - 平台规则和政策
-   - 运营策略和技巧
+- Temu运营指南
+- 亚马逊运营指南
+- TikTok Shop运营指南
 
-2. [亚马逊运营]({{ site.baseurl }}/docs/core/amazon/intro)
-   - 亚马逊平台运营指南
-   - 选品和定价策略
-   - 广告和推广
-
-3. [TikTok Shop运营]({{ site.baseurl }}/docs/core/tiktok/intro)
-   - TikTok Shop运营指南
-   - 内容营销策略
-   - 直播运营
-
-### 供应链管理
+### [供应链管理]({{ site.baseurl }}/docs/supply-chain/)
 {: .text-delta }
 
-1. [产品开发]({{ site.baseurl }}/docs/supply-chain/product/selection)
-   - 选品策略
-   - 产品研发
-   - 质量控制
+- 产品开发与选品
+- 供应商管理
+- 仓储物流
 
-2. [供应商管理]({{ site.baseurl }}/docs/supply-chain/supplier/sourcing)
-   - 供应商开发
-   - 供应商评估
-   - 合作管理
-
-3. [仓储物流]({{ site.baseurl }}/docs/supply-chain/logistics/warehouse)
-   - 仓库管理
-   - 物流配送
-   - 库存优化
-
-### 运营支持
+### [运营支持]({{ site.baseurl }}/docs/operation-support/)
 {: .text-delta }
 
-1. [营销体系]({{ site.baseurl }}/docs/operation/marketing/content)
-   - 内容营销
-   - 社交媒体
-   - 效果广告
+- 营销体系
+- 数据分析
+- 客户服务
 
-2. [数据分析]({{ site.baseurl }}/docs/operation/analytics/sales)
-   - 销售分析
-   - 竞品分析
-   - 市场洞察
+### [基础支撑]({{ site.baseurl }}/docs/foundation/)
+{: .text-delta }
 
-3. [客户服务]({{ site.baseurl }}/docs/operation/service/standards)
-   - 服务标准
-   - 售后处理
-   - 客户反馈
+- 财务管理
+- 技术支持
+- ERP系统
+
+### [合规风控]({{ site.baseurl }}/docs/compliance/)
+{: .text-delta }
+
+- 平台规则
+- 法律合规
+- 风险控制
+
+### [资源对接]({{ site.baseurl }}/docs/resources/)
+{: .text-delta }
+
+- 服务商推荐
+- 工具推荐
+- 资源下载
+
+### [工具模板]({{ site.baseurl }}/docs/tools/)
+{: .text-delta }
+
+- 运营模板
+- 分析工具
+- 标准文档
