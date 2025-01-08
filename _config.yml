@@ -9,6 +9,10 @@ remote_theme: just-the-docs/just-the-docs@v0.4.2
 # 启用必要的插件
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
 
 # Just the Docs 配置
 search_enabled: true
@@ -34,4 +38,4 @@ search:
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
   rel_url: true
-  button: false 
+  button: false
