@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>React</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#3578E5" cx="100" cy="100" r="20"></circle>
+        <ellipse stroke="#3578E5" stroke-width="10" cx="100" cy="100" rx="80" ry="30"></ellipse>
+        <ellipse stroke="#3578E5" stroke-width="10" cx="100" cy="100" rx="80" ry="30" transform="rotate(60)"></ellipse>
+        <ellipse stroke="#3578E5" stroke-width="10" cx="100" cy="100" rx="80" ry="30" transform="rotate(-60)"></ellipse>
+    </g>
+</svg>

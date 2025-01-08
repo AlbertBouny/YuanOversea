@@ -4,61 +4,45 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '核心业务',
+    title: '简单易用',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        包含订单管理、商品管理、用户管理等核心业务功能的详细说明和技术实现。
+        跨境电商运营指南采用清晰的结构和通俗的语言，帮助你快速掌握跨境电商运营的核心知识。
       </>
     ),
   },
   {
-    title: '供应链管理',
+    title: '专注实践',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        涵盖仓储管理、物流配送、供应商管理等供应链相关的完整解决方案。
+        提供大量实际案例和操作指南，让你能够立即将所学知识应用到实际工作中。
       </>
     ),
   },
   {
-    title: '运营支持',
+    title: '持续更新',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        提供营销活动、客户服务、数据分析等运营支持系统的技术文档。
-      </>
-    ),
-  },
-  {
-    title: '基础支撑',
-    description: (
-      <>
-        包括系统架构、技术框架、开发规范等基础设施的详细说明。
-      </>
-    ),
-  },
-  {
-    title: '合规风控',
-    description: (
-      <>
-        涵盖风险控制、合规管理、安全防护等相关技术方案。
-      </>
-    ),
-  },
-  {
-    title: '资源对接',
-    description: (
-      <>
-        提供第三方服务、API接口、数据对接等资源的集成方案。
+        我们持续跟踪跨境电商行业的最新动态，及时更新文档内容，确保你始终掌握最新的运营策略。
       </>
     ),
   },
 ];
 
-function Feature({title, description}) {
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
+      <div className={styles.featureCard}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <h3 className={styles.featureTitle}>{title}</h3>
+          <p className={styles.featureDescription}>{description}</p>
+        </div>
       </div>
     </div>
   );

@@ -4,8 +4,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '跨境电商运营指南',
-  tagline: '完整的跨境电商运营知识体系',
+  title: '和远哥做跨境',
+  tagline: '专业的跨境电商运营知识分享平台',
   url: 'https://albertbouny.github.io',
   baseUrl: '/YuanOversea/',
   onBrokenLinks: 'throw',
@@ -35,62 +35,60 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '跨境电商知识库',
+        title: '和远哥做跨境',
         logo: {
-          alt: 'Logo',
+          alt: '和远哥做跨境 Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            to: '/docs/category/temu',
+            label: 'Temu',
             position: 'left',
-            label: '文档',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/category/tiktok',
+            label: 'TikTok',
             position: 'left',
-            label: '目录',
           },
           {
-            type: 'dropdown',
-            label: '快速导航',
+            to: '/docs/category/amazon',
+            label: 'Amazon',
             position: 'left',
-            items: [
-              {
-                label: '1-核心业务',
-                to: '/docs/core',
-              },
-              {
-                label: '2-供应链',
-                to: '/docs/supply-chain',
-              },
-              {
-                label: '3-运营支持',
-                to: '/docs/operation-support',
-              },
-              {
-                label: '4-基础支撑',
-                to: '/docs/foundation',
-              },
-              {
-                label: '5-合规风控',
-                to: '/docs/compliance',
-              },
-              {
-                label: '6-资源对接',
-                to: '/docs/resources',
-              },
-              {
-                label: '7-工具模板',
-                to: '/docs/tools',
-              },
-            ],
           },
           {
-            href: 'https://github.com/your-org/kuajingdianshang',
-            label: 'GitHub',
+            to: '/docs/category/shopee',
+            label: 'Shopee',
+            position: 'left',
+          },
+          {
+            to: '/docs/category/lazada',
+            label: 'Lazada',
+            position: 'left',
+          },
+          {
+            to: '/docs/category/aliexpress',
+            label: 'AliExpress',
+            position: 'left',
+          },
+          {
+            to: '/docs/category/wish',
+            label: 'Wish',
+            position: 'left',
+          },
+          {
+            href: 'https://space.bilibili.com/your-channel',
+            label: 'B站',
+            position: 'right',
+          },
+          {
+            href: 'https://www.xiaohongshu.com/your-profile',
+            label: '小红书',
+            position: 'right',
+          },
+          {
+            href: 'https://www.douyin.com/your-profile',
+            label: '抖音',
             position: 'right',
           },
         ],
@@ -99,58 +97,58 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '平台',
             items: [
               {
-                label: '开始',
-                to: '/docs/intro',
+                label: 'Temu',
+                to: '/docs/category/temu',
               },
               {
-                label: '1-核心业务',
-                to: '/docs/core',
+                label: 'TikTok',
+                to: '/docs/category/tiktok',
               },
               {
-                label: '2-供应链',
-                to: '/docs/supply-chain',
+                label: 'Amazon',
+                to: '/docs/category/amazon',
               },
             ],
           },
           {
-            title: '更多',
+            title: '课程',
             items: [
               {
-                label: '3-运营支持',
-                to: '/docs/operation-support',
+                label: '新手入门',
+                to: '/docs/course/beginner',
               },
               {
-                label: '4-基础支撑',
-                to: '/docs/foundation',
+                label: '进阶课程',
+                to: '/docs/course/advanced',
               },
               {
-                label: '5-合规风控',
-                to: '/docs/compliance',
+                label: '实战案例',
+                to: '/docs/course/cases',
               },
             ],
           },
           {
-            title: '链接',
+            title: '合作',
             items: [
               {
-                label: '6-资源对接',
-                to: '/docs/resources',
+                label: '商务合作',
+                href: 'mailto:your-email@example.com',
               },
               {
-                label: '7-工具模板',
-                to: '/docs/tools',
+                label: '加入社群',
+                href: 'https://example.com/community',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/your-org/kuajingdianshang',
+                label: '关于我们',
+                to: '/about',
               },
             ],
           },
         ],
-        copyright: `Copyright ${new Date().getFullYear()} 跨境电商知识库`,
+        copyright: `Copyright ${new Date().getFullYear()} 和远哥做跨境. All rights reserved.`,
       },
       prism: {
         theme: require('prism-react-renderer').themes.github,
