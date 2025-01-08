@@ -20,35 +20,28 @@ color_scheme: light
 nav_sort: case_sensitive
 
 # 导航结构
-defaults:
-  - scope:
-      path: "docs/core"
-    values:
-      nav_order: 1
-  - scope:
-      path: "docs/supply-chain"
-    values:
-      nav_order: 2
-  - scope:
-      path: "docs/operation-support"
-    values:
-      nav_order: 3
-  - scope:
-      path: "docs/foundation"
-    values:
-      nav_order: 4
-  - scope:
-      path: "docs/compliance"
-    values:
-      nav_order: 5
-  - scope:
-      path: "docs/resources"
-    values:
-      nav_order: 6
-  - scope:
-      path: "docs/tools"
-    values:
-      nav_order: 7
+nav:
+  - title: 核心业务
+    url: /docs/core/
+    nav_order: 1
+  - title: 供应链管理
+    url: /docs/supply-chain/
+    nav_order: 2
+  - title: 运营支持
+    url: /docs/operation-support/
+    nav_order: 3
+  - title: 基础支撑
+    url: /docs/foundation/
+    nav_order: 4
+  - title: 合规风控
+    url: /docs/compliance/
+    nav_order: 5
+  - title: 资源对接
+    url: /docs/resources/
+    nav_order: 6
+  - title: 工具模板
+    url: /docs/tools/
+    nav_order: 7
 
 # 页脚设置
 footer_content: "Copyright &copy; 2024 跨境电商运营指南"
