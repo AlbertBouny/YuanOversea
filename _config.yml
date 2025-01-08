@@ -4,33 +4,41 @@ baseurl: "/YuanOversea"
 url: "https://albertbouny.github.io"
 
 # 主题设置
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs@v0.4.2
 
 # 启用必要的插件
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-relative-links
-  - jekyll-titles-from-headings
 
-# 配置
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
+# Just the Docs 配置
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+nav_external_links:
+  - title: GitHub 仓库
+    url: https://github.com/AlbertBouny/YuanOversea
+    hide_icon: false
 
-# 导航设置
+# 导航排序
+nav_sort: case_sensitive
+
+# 启用复制代码按钮
+enable_copy_code_button: true
+
+# 页脚设置
+footer_content: "Copyright &copy; 2024 跨境电商运营指南. Distributed by an <a href=\"https://github.com/AlbertBouny/YuanOversea/blob/main/LICENSE\">MIT license.</a>"
+
+# 最后修改时间
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d %H:%M:%S"
+
+# 辅助链接
 aux_links:
-  "GitHub 仓库":
+  "在 GitHub 上查看":
     - "https://github.com/AlbertBouny/YuanOversea"
 
-# 目录结构
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-# 搜索配置
+# 搜索设置
 search:
   heading_level: 3
   previews: 3
@@ -38,4 +46,4 @@ search:
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
   rel_url: true
-  button: false
+  button: true
