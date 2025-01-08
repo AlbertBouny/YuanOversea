@@ -1,3 +1,11 @@
+---
+layout: default
+title: 平台规则
+nav_order: 6
+parent: Temu运营
+grand_parent: 核心业务
+---
+
 # Temu平台规则指南
 
 ## 一、基础规则

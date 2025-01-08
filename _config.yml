@@ -20,13 +20,28 @@ aux_links:
   "GitHub 仓库":
     - "https://github.com/AlbertBouny/YuanOversea"
 
-# 文档设置
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
+# 目录显示配置
+nav:
+  - title: 核心业务
+    children:
+      - title: Temu运营
+        url: /docs/core/temu/
+      - title: 亚马逊运营
+        url: /docs/core/amazon/
+      - title: TikTok Shop运营
+        url: /docs/core/tiktok/
+  - title: 供应链
+    url: /docs/supply-chain/
+  - title: 运营支持
+    url: /docs/operation/
+  - title: 基础支撑
+    url: /docs/foundation/
+  - title: 合规风控
+    url: /docs/compliance/
+  - title: 资源对接
+    url: /docs/resources/
+  - title: 工具模板
+    url: /docs/tools/
 
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation 
+# 显示所有页面
+show_all_pages: true 
