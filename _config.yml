@@ -1,30 +1,18 @@
 title: 跨境电商运营指南
 description: 跨境电商运营完整知识体系
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# 导航结构
-nav:
-  - title: 核心业务
-    subnav:
-      - title: Temu运营
-        url: /core/temu/
-      - title: 亚马逊运营
-        url: /core/amazon/
-      - title: TikTok Shop运营
-        url: /core/tiktok/
-  - title: 供应链
-    url: /supply-chain/
-  - title: 运营支持
-    url: /operation/
-  - title: 基础支撑
-    url: /foundation/
-  - title: 合规风控
-    url: /compliance/
-  - title: 资源对接
-    url: /resources/
-  - title: 工具模板
-    url: /tools/ 
+# Just the Docs 配置
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+# 导航设置
+aux_links:
+  "GitHub 仓库":
+    - "https://github.com/AlbertBouny/YuanOversea" 
