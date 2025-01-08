@@ -6,7 +6,7 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '跨境电商运营指南',
-  tagline: '完整的跨境电商运营知识体系',
+  tagline: '专业的跨境电商运营知识库',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -42,6 +42,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/AlbertBouny/YuanOversea/tree/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
         blog: false,
         theme: {
@@ -56,6 +58,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: '跨境电商运营指南',
         logo: {
@@ -75,6 +82,7 @@ const config = {
             position: 'right',
           },
         ],
+        style: 'primary',
       },
       footer: {
         style: 'dark',
@@ -84,37 +92,37 @@ const config = {
             items: [
               {
                 label: '核心业务',
-                to: '/docs/core',
+                to: '/docs/category/核心业务',
               },
               {
                 label: '供应链管理',
-                to: '/docs/supply-chain',
+                to: '/docs/category/供应链管理',
               },
               {
                 label: '运营支持',
-                to: '/docs/operation-support',
+                to: '/docs/category/运营支持',
+              },
+            ],
+          },
+          {
+            title: '资源',
+            items: [
+              {
+                label: '基础支撑',
+                to: '/docs/category/基础支撑',
+              },
+              {
+                label: '合规风控',
+                to: '/docs/category/合规风控',
+              },
+              {
+                label: '资源对接',
+                to: '/docs/category/资源对接',
               },
             ],
           },
           {
             title: '更多',
-            items: [
-              {
-                label: '基础支撑',
-                to: '/docs/foundation',
-              },
-              {
-                label: '合规风控',
-                to: '/docs/compliance',
-              },
-              {
-                label: '资源对接',
-                to: '/docs/resources',
-              },
-            ],
-          },
-          {
-            title: '链接',
             items: [
               {
                 label: 'GitHub',
@@ -128,6 +136,16 @@ const config = {
       prism: {
         theme: themes.github,
         darkTheme: themes.dracula,
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 4,
       },
     }),
 };

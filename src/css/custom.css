@@ -1,7 +1,7 @@
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * work well for content-first websites.
  */
 
 /* You can override the default Infima variables here. */
@@ -27,4 +27,138 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom styles for documentation */
+.markdown {
+  --ifm-h1-font-size: 2.5rem;
+  --ifm-h2-font-size: 2rem;
+  --ifm-h3-font-size: 1.5rem;
+  --ifm-h4-font-size: 1.25rem;
+}
+
+.markdown h1 {
+  font-weight: 700;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-primary-darker);
+}
+
+.markdown h2 {
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--ifm-color-primary-lightest);
+}
+
+.markdown h3 {
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary-dark);
+}
+
+.markdown ul {
+  padding-left: 1.5rem;
+}
+
+.markdown ul li {
+  margin-bottom: 0.5rem;
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background-color: var(--ifm-color-primary-lightest);
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.markdown code {
+  background-color: var(--ifm-code-background);
+  border-radius: 4px;
+  padding: 0.2rem 0.4rem;
+}
+
+/* Table styles */
+.markdown table {
+  width: 100%;
+  margin: 1rem 0;
+  border-collapse: collapse;
+}
+
+.markdown table th {
+  background-color: var(--ifm-color-primary-lightest);
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.markdown table td {
+  padding: 0.75rem;
+  border: 1px solid var(--ifm-color-primary-lighter);
+}
+
+/* Admonitions styles */
+.alert {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.alert--info {
+  background-color: rgba(37, 194, 160, 0.1);
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+.alert--warning {
+  background-color: rgba(255, 196, 9, 0.1);
+  border-left: 4px solid #ffc409;
+}
+
+.alert--danger {
+  background-color: rgba(235, 68, 90, 0.1);
+  border-left: 4px solid #eb445a;
+}
+
+/* Navigation styles */
+.menu {
+  padding: 1rem;
+}
+
+.menu__link {
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.menu__link:hover {
+  background-color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
+}
+
+.menu__link--active {
+  font-weight: 600;
+}
+
+.features_src-components-HomepageFeatures-styles-module {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.features_src-components-HomepageFeatures-styles-module .row {
+  justify-content: center;
+}
+
+.features_src-components-HomepageFeatures-styles-module .col {
+  margin-bottom: 2rem;
+}
+
+.features_src-components-HomepageFeatures-styles-module h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.features_src-components-HomepageFeatures-styles-module p {
+  font-size: 1rem;
+  line-height: 1.6;
 }

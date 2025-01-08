@@ -8,11 +8,31 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(45deg, var(--ifm-color-primary-darker) 0%, var(--ifm-color-primary) 100%);
+}
+
+.heroBanner h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 1.5rem;
+}
+
+.heroBanner p {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 2rem;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+  .heroBanner h1 {
+    font-size: 2rem;
+  }
+  .heroBanner p {
+    font-size: 1.2rem;
   }
 }
 
@@ -20,4 +40,63 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 4rem 0;
+  width: 100%;
+  background-color: var(--ifm-background-surface-color);
+}
+
+.featureCard {
+  margin-bottom: 2rem;
+}
+
+.featureCard > div {
+  height: 100%;
+  padding: 2rem;
+  border-radius: 8px;
+  background-color: var(--ifm-background-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.featureCard > div:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.featureCard h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary);
+}
+
+.featureCard p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+@media screen and (max-width: 996px) {
+  .features {
+    padding: 2rem 0;
+  }
+  
+  .featureCard > div {
+    padding: 1.5rem;
+  }
+  
+  .featureCard h3 {
+    font-size: 1.2rem;
+  }
+  
+  .featureCard p {
+    font-size: 0.9rem;
+  }
 }

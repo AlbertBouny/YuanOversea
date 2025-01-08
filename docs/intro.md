@@ -2,46 +2,63 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 跨境电商运营指南
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎使用跨境电商运营指南！本指南旨在为跨境电商从业者提供全面的运营知识和实践指导。
 
-## Getting Started
+import { Card } from '@site/src/components/Card';
 
-Get started by **creating a new site**.
+<div className="row">
+  <div className="col col--4">
+    <Card
+      title="核心业务"
+      description="包含产品开发、营销推广、订单履约等核心业务流程的详细指南，帮助你快速掌握跨境电商运营的关键环节。"
+      to="/docs/category/核心业务"
+    />
+  </div>
+  <div className="col col--4">
+    <Card
+      title="供应链管理"
+      description="从供应商管理、采购管理到仓储物流，全面的供应链管理体系，助你打造高效的跨境电商供应链。"
+      to="/docs/category/供应链管理"
+    />
+  </div>
+  <div className="col col--4">
+    <Card
+      title="运营支持"
+      description="客户服务、售后支持、数据分析等运营支持体系的建设指南，让你的跨境电商业务运转更加顺畅。"
+      to="/docs/category/运营支持"
+    />
+  </div>
+</div>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<div className="row">
+  <div className="col col--4">
+    <Card
+      title="基础支撑"
+      description="IT系统、财务管理、人力资源等基础支撑体系的搭建方案，为你的跨境电商业务奠定坚实基础。"
+      to="/docs/category/基础支撑"
+    />
+  </div>
+  <div className="col col--4">
+    <Card
+      title="合规风控"
+      description="平台规则、法律法规、风险控制等合规管理指南，帮助你的业务在合规的框架下健康发展。"
+      to="/docs/category/合规风控"
+    />
+  </div>
+  <div className="col col--4">
+    <Card
+      title="资源对接"
+      description="供应商、服务商、平台资源等对接指南，助你快速找到合适的合作伙伴，加速业务发展。"
+      to="/docs/category/资源对接"
+    />
+  </div>
+</div>
 
-### What you'll need
+## 使用建议
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. **系统学习**：建议先浏览整体架构，了解各板块的内容和关联
+2. **重点关注**：根据自身需求，优先学习相关板块的内容
+3. **实践应用**：结合实际工作场景，灵活运用指南中的方法
+4. **持续更新**：定期回顾更新的内容，及时了解最新的实践经验

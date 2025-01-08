@@ -1,0 +1,101 @@
+.categoryWrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.categoryHeader {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.categoryTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  background: linear-gradient(45deg, var(--category-color, var(--ifm-color-primary)) 0%, var(--ifm-color-primary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.categoryDescription {
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.categoryContent {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.categoryContent article {
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: var(--ifm-background-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.categoryContent article:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.categoryContent h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--category-color, var(--ifm-color-primary));
+}
+
+.categoryContent p {
+  font-size: 1rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1.5rem;
+}
+
+/* 分类特定样式 */
+.core {
+  --category-color: #2e8555;
+}
+
+.supply-chain {
+  --category-color: #1877f2;
+}
+
+.operation-support {
+  --category-color: #f59e0b;
+}
+
+.foundation {
+  --category-color: #10b981;
+}
+
+.compliance {
+  --category-color: #6366f1;
+}
+
+.resources {
+  --category-color: #ec4899;
+}
+
+/* 响应式样式 */
+@media screen and (max-width: 996px) {
+  .categoryWrapper {
+    padding: 1rem;
+  }
+
+  .categoryTitle {
+    font-size: 2rem;
+  }
+
+  .categoryDescription {
+    font-size: 1rem;
+  }
+
+  .categoryContent {
+    grid-template-columns: 1fr;
+  }
+}
