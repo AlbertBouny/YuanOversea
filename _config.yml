@@ -2,6 +2,9 @@ title: 跨境电商运营指南
 description: 跨境电商运营完整知识体系
 baseurl: "/YuanOversea"
 url: "https://albertbouny.github.io"
+
+# 主题设置
+theme: jekyll-theme-primer
 remote_theme: just-the-docs/just-the-docs
 
 # 启用必要的插件

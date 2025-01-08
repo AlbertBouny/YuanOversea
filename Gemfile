@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "github-pages"
 gem "jekyll-remote-theme"
-gem "just-the-docs"
-gem "jekyll-sitemap"
-gem "jekyll-seo-tag" 
+gem "just-the-docs" 
