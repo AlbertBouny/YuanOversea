@@ -1,0 +1,30 @@
+title: 跨境电商运营指南
+description: 跨境电商运营完整知识体系
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 导航结构
+nav:
+  - title: 核心业务
+    subnav:
+      - title: Temu运营
+        url: /core/temu/
+      - title: 亚马逊运营
+        url: /core/amazon/
+      - title: TikTok Shop运营
+        url: /core/tiktok/
+  - title: 供应链
+    url: /supply-chain/
+  - title: 运营支持
+    url: /operation/
+  - title: 基础支撑
+    url: /foundation/
+  - title: 合规风控
+    url: /compliance/
+  - title: 资源对接
+    url: /resources/
+  - title: 工具模板
+    url: /tools/ 
