@@ -2,7 +2,6 @@
 layout: home
 title: 首页
 nav_order: 1
-permalink: /
 ---
 
 # 跨境电商运营指南
